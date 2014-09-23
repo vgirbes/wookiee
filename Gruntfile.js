@@ -187,6 +187,7 @@ module.exports = function (grunt) {
         httpFontsPath: '/styles/fonts',
         relativeAssets: false,
         assetCacheBuster: false,
+        require: 'susy',
         raw: 'Sass::Script::Number.precision = 10\n'
       },
       dist: {
