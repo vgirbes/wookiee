@@ -1,6 +1,7 @@
 {
   "name": "wookiees",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "repository": "https://bitbucket.org/norauto/wookiees",
   "dependencies": {},
   "devDependencies": {
     "grunt": "^0.4.1",
