@@ -1,0 +1,9 @@
+.footer {
+  background-color: #fff;
+  bottom: 0;
+  height: 3em;
+  position: fixed;
+  width: 100%;
+
+  @include box-shadow(#000 0 0 10px);
+}

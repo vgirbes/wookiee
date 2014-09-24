@@ -1,0 +1,18 @@
+body {
+  background-color: #10216b;
+}
+
+.content {
+  background-color: #10216b;
+  overflow: hidden;
+}
+
+.loading {
+  color: lighten(#10216b, 40%);
+  left: 40%;
+  position: absolute;
+  text-align: center;
+  top: 45%;
+  width: 20%;
+  z-index: -1;
+}
