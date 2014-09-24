@@ -1,0 +1,15 @@
+.header {
+  background-color: white;
+  height: 4em;
+  text-align: center;
+}
+
+.brand {
+  display: inline-block;
+  margin: 1em auto 0;
+
+  img {
+    max-width: 300px;
+    width: 80%;
+  }
+}
