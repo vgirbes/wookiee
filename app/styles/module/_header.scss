@@ -1,0 +1,33 @@
+.header {
+  background-color: #fff;
+  height: 4.250em;
+  text-align: center;
+  box-shadow: 0 0 1.250em 0.500em rgba(10,20,60,0.64);
+  .logo{
+  	width: 11.375em;
+	height: 3.813em;
+	background: url("../images/norauto.png") no-repeat 0 0;
+	background-size: 11.375em 3.813em;
+	position: relative;
+	top: 1.8em;
+	margin: auto;
+	z-index: 10;
+	-webkit-transition: all 0.2s linear;
+	-webkit-transition-delay: .2s;
+	img {
+		width: 11.575em;
+		height: 3.913em;
+	}
+  }
+}
+
+.brand {
+  display: inline-block;
+  margin: 1em auto 0;
+  top: 2.8em;
+
+  img {
+    max-width: 300px;
+    width: 80%;
+  }
+}
