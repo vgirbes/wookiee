@@ -9,8 +9,8 @@
 
     <!-- build:css(.) styles/vendor.css -->
     <!-- bower:css -->
-    <link rel="stylesheet" href="bower_components/normalize.css/normalize.css" />
     <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.css" />
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
     <!-- endbower -->
     <!-- endbuild -->
 
@@ -24,12 +24,12 @@
     <![endif]-->
 
     <!-- Add your site or application content here -->
-    <div class="loading">
+    <div class="loading" style="display:none;">
       <i class="fa fa-circle-o-notch fa-spin fa-2x"></i>
     </div>
 
     <header class="header">
-      <a href="/" class="brand">
+      <a href="/" class="logo">
         <img src="images/norauto.png" alt="Norauto">
       </a>
     </header>
@@ -58,6 +58,7 @@
 
     <!-- build:js(.) scripts/vendor.js -->
     <!-- bower:js -->
+    <script src="bower_components/jquery/dist/jquery.js"></script>
     <script src="bower_components/angular/angular.js"></script>
     <script src="bower_components/angular-resource/angular-resource.js"></script>
     <script src="bower_components/angular-cookies/angular-cookies.js"></script>
@@ -65,6 +66,7 @@
     <script src="bower_components/angular-animate/angular-animate.js"></script>
     <script src="bower_components/angular-touch/angular-touch.js"></script>
     <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
 
