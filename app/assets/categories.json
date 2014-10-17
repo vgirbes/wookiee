@@ -1,0 +1,22 @@
+{
+    "categories": [
+      {"name": "Lámpadas", "image": "images/JPG_ea3432f565b9ef7bb2adf28ed8a3037b.jpg", "link": "", "analytics": ""},
+      {"name": "Baterias", "image": "images/JPG_522bf00e0e6916019d91f887a485f680.jpg", "link": "", "analytics": ""},
+      {"name": "Velas Gasolina", "image": "images/JPG_7e24826e9662a04b1b07f3b2e35f0a3a.jpg", "link": "", "analytics": ""},
+      {"name": "Velas Diesel", "image": "images/JPG_1b8f41f54fae7093571fad2b228e7536.jpg", "link": "", "analytics": ""},
+      {"name": "Lubrificantes", "image": "images/JPG_9dbaf6305f7f9e54b28fd6585749d0f9.jpg", "link": "", "analytics": ""},
+      {"name": "Filtros", "image": "images/JPG_35f4382c5475f1026455bda6544c7fec.jpg", "link": "", "analytics": ""},
+      {"name": "Juntas e Bujoes", "image": "images/JPG_bf2c44308b57e5d569067e291665ed06.jpg", "link": "", "analytics": ""},
+      {"name": "Tampoes de Deposito", "image": "images/JPG_4fa2792e770ce0108f6a39dbee543cd7.jpg", "link": "", "analytics": ""},
+      {"name": "Escovas", "image": "images/JPG_796022312e9a7bea360a6068908b4930.jpg", "link": "", "analytics": ""},
+      {"name": "Espelhos e Retrovisores", "image": "images/JPG_1f5428a4171d4b0348ac296c349e713c.jpg", "link": "", "analytics": ""},
+      {"name": "Barras de Tejadilho", "image": "images/JPG_069e65f28d32af9a073f01a7f8988e4d.jpg", "link": "", "analytics": ""},
+      {"name": "Pemos Anti Roubo", "image": "images/JPG_14cbe4d6b229fdd74373f5e19c877eb2.jpg", "link": "", "analytics": ""},
+      {"name": "Amortecedores", "image": "images/JPG_aa5afaa83ad3748670a2b66b502ce30b.jpg", "link": "", "analytics": ""},
+      {"name": "Discos de Travao", "image": "images/JPG_574240e8b8853e7c6f1ec1cb5d2d42ee.jpg", "link": "", "analytics": ""},
+      {"name": "Pastilhas de Travoes", "image": "images/JPG_95898ccba259ae3e0323ba1a8584b562.jpg", "link": "", "analytics": ""},
+      {"name": "Colunas", "image": "images/JPG_ae39ed948b7d9901fedca81ada93d236.jpg", "link": "", "analytics": ""},
+      {"name": "Corrente de Neve", "image": "images/JPG_2632d1d88904964a283e8ff4d4217059.jpg", "link": "", "analytics": ""},
+      {"name": "Pneus", "image": "images/JPG_bc2056fb4c78425b90b6ed1cf6ab9bd8.jpg", "link": "", "analytics": ""}
+    ]
+}
