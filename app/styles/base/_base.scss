@@ -1,12 +1,80 @@
+$font-arial: Arial;
+
 body {
   background-image: image-url("bg.jpg");
   font-family: "HelveticaNeueUltraLight";
   color: #fff;
   font-size: 16pt;
+  overflow: hidden;
+}
+
+ul li{
+  list-style-type: none;
+}
+
+.bxslider{
+  li {
+    margin-right: 100px;
+    list-style-type: none;
+  }
+
+  li a {
+    display: inline-block;
+    position: relative;
+    z-index: 0;
+    text-decoration: none;
+    text-align: center;
+    width: 7em;
+    margin: 1.35em 1.45em 1em 1em;
+
+    .sombra {
+      position: absolute;
+      top: 0.25em;
+      left: 0;
+      z-index: 10;
+      width: 6.219em;
+      height: 6.219em;
+      border-radius: 50%;
+      overflow: hidden;
+      background-image:-webkit-gradient(linear,color-stop(0, rgba(255,255,255,0)),color-stop(1, rgba(38,60,124,0.4)));
+      background-image:-webkit-linear-gradient(rgba(255,255,255,0) 0%,rgba(38,60,124,0.4) 100%);
+      background-image:linear-gradient(rgba(255,255,255,0) 0%,rgba(38,60,124,0.4) 100%);
+    }
+
+    .texto {
+      display: block;
+      color: rgba(255,255,255,0.8);
+      padding-top: 0.45em;
+      font-family: $font-arial;
+      color: #fff;
+      font-size: 0.65em;
+    }
+
+    img {
+      width: 6.219em;
+      height: 6.219em;
+      border: 0.25em solid #FFF;
+      border-radius: 50%;
+      overflow: hidden;
+    }
+  }
 }
 
 .content {
   overflow: hidden;
+  position: relative;
+  height: 30em;
+  width: 41em;
+  margin: auto;
+  margin-top: 1.4em;
+}
+
+.start {
+  overflow: hidden;
+  position: absolute;
+  height: 89%;
+  width: 100%;
+  margin: auto;
 }
 
 .loading {
@@ -23,7 +91,6 @@ body {
   width: 100%;
   position: relative;
   text-align: center;
-  margin-top: 2.2em;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   letter-spacing: -0.02em;
   font-size: 16px;
@@ -38,15 +105,23 @@ body {
     font-size: 0.7em;
     margin-top: 0.2em;
   }
+
+  .option{
+    font-size: 0.7em;
+  }
+}
+
+.align-vertical{
+  margin-top: 0.25em;
 }
 
 .intro-pic {
   background: image-url("img_into1.png") no-repeat 0 0;
   width: 13.375em;
   height: 11.656em;
-  position: absolute;
-  bottom: 2.005em;
-  left: 6em;
+  position: fixed;
+  bottom: 2em;
+  left: 12em;
   background-size: 12.375em 11.656em !important;
   -webkit-transition: all 1s linear;
 }
@@ -55,4 +130,21 @@ body {
   font-size:48px;
   vertical-align:middle;
   padding-bottom:9px;
+}
+
+.back {
+  position: absolute;
+  top: 3em;
+  left: 2em;
+  z-index: 100;
+  width: 2.094em;
+  height: 1.813em;
+  background: image-url("sys03.png") no-repeat 0 0;
+  background-size: 2.094em 4.000em;
+  display: none;
+  opacity: 0;
+}
+
+.back:active {
+  background-position: 0 bottom;
 }
