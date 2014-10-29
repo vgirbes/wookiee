@@ -1,0 +1,51 @@
+<div class="presentation-search">
+   Escovas limpa-vidros para a sua viatura
+   <div class="no-exist" ng-repeat="product in products | by_id:id_product" ng-show="!product.marca3_tras.length && !product.marca3_x1.length && !product.marca3_frente.length && !product.marca2_kit.length && !product.marca1_frente.length">
+   Não existem resultados para a sua viatura, por favor consulte um colaborador
+   </div>
+</div>
+
+<div class="box-table" ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_tras.length && !product.marca3_x1.length && !product.marca3_frente.length && !product.marca2_kit.length && !product.marca1_frente.length">
+	<table class="table-header">
+		<tr ng-repeat="product in products | by_id:id_product">
+			<th ng-repeat="product in products | by_id:id_product"><b>Marca</b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="product.mont_condu == 0"><b>Montagem</b> <p><span class="mini">Condutor</span></p></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="product.mont_pass == 0"><b>Montagem</b> <p><span class="mini">Passageiro</span></p></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca1_frente.length"><b>Frente</b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_tras.length && !product.marca2_tras.length"><b>Trás</b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_x1.length && !product.marca2_x1.length"><b>Frente</b> <p><span class="mini">(X1)</span></p></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca2_kit.length"><b>Frente</b> <p><span class="mini">KIT</span></p></p></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_frente.length"><b>Frente</b> <p><span class="mini">SELENCIO X TRM</span></p></th>
+		</tr>
+		<tr ng-repeat="product in products | by_id:id_product" ng-hide="product.mont_condu == 0 && product.mont_pass == 0 && !product.marca1_frente.length">
+			<td ng-repeat="product in products | by_id:id_product"><img src="images/marca1.jpg" /></td>
+			<td ng-repeat="product in products | by_id:id_product"  ng-hide="product.mont_condu == 0" ng-switch on="{{ product.mont_condu }}"><span ng-switch-when="1">x</span></td>
+			<td ng-repeat="product in products | by_id:id_product"  ng-hide="product.mont_pass == 0" ng-switch on="{{ product.mont_pass }}"><span ng-switch-when="1">x</span></td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca1_frente.length">{{ product.marca1_frente }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_tras.length && !product.marca2_tras.length"></td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_x1.length && !product.marca2_x1.length"></td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca2_kit.length"></td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_frente.length"></td>
+		</tr>
+		<tr ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca2_tras.length && !product.marca2_x1.length && !product.marca2_kit.length">
+			<td ng-repeat="product in products | by_id:id_product"><img src="images/marca2.jpg" /></td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="product.mont_condu == 0" ng-switch on="{{ product.mont_condu }}"><span ng-switch-when="1">x</span></td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="product.mont_pass == 0" ng-switch on="{{ product.mont_pass }}"><span ng-switch-when="1">x</span></td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca1_frente.length"></td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_tras.length && !product.marca2_tras.length">{{ product.marca2_tras }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_x1.length && !product.marca2_x1.length">{{ product.marca2_x1 }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca2_kit.length">{{ product.marca2_kit }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_frente.length"></td>
+		</tr>
+		<tr ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_tras.length && !product.marca3_x1.length && !product.marca3_frente.length">
+			<td ng-repeat="product in products | by_id:id_product"><img src="images/marca3.jpg" /></td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="product.mont_condu == 0" ng-switch on="{{ product.mont_condu }}"><span ng-switch-when="1">x</span></td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="product.mont_pass == 0" ng-switch on="{{ product.mont_pass }}"><span ng-switch-when="1">x</span></td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca1_frente.length"></td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_tras.length && !product.marca2_tras.length">{{ product.marca3_tras }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_x1.length && !product.marca2_x1.length">{{ product.marca2_x1 }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca2_kit.length"></td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_frente.length">{{ product.marca3_frente }}</td>
+		</tr>
+	</table>
+</div>

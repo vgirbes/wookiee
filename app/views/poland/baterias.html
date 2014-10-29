@@ -1,0 +1,31 @@
+<div class="presentation-search">
+   Baterias para sua viatura
+   <div class="no-exist" ng-repeat="product in products | by_id:id_product" ng-show="!product.marca1_normal.length && !product.marca1_elevado.length && !product.marca2_normal.length && !product.marca2_elevado.length && !product.marca3_normal.length && !product.marca3_elevado.length">
+   Não existem resultados para a sua viatura, por favor consulte um colaborador
+   </div>
+</div>
+
+<div class="box-table">
+	<table class="table-header">
+		<tr ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca1_normal.length && !product.marca1_elevado.length && !product.marca2_normal.length && !product.marca2_elevado.length && !product.marca3_normal.length && !product.marca3_elevado.length">
+			<th ng-repeat="product in products | by_id:id_product"><b>Marca</b></th>
+			<th ng-repeat="product in products | by_id:id_product"><b>Consumo Normal</b></th>
+			<th ng-repeat="product in products | by_id:id_product"><b>Consumo Elevado</b></th>
+		</tr>
+		<tr ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca1_normal.length && !product.marca1_elevado.length">
+			<td ng-repeat="product in products | by_id:id_product"><img src="images/marca1.jpg" /></td>
+			<td ng-repeat="product in products | by_id:id_product">{{ product.marca1_normal }}</td>
+			<td ng-repeat="product in products | by_id:id_product">{{ product.marca1_elevado }}</td>
+		</tr>
+		<tr ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca2_normal.length && !product.marca2_elevado.length">
+			<td ng-repeat="product in products | by_id:id_product"><img src="images/marca2.jpg" /></td>
+			<td ng-repeat="product in products | by_id:id_product">{{ product.marca2_normal }}</td>
+			<td ng-repeat="product in products | by_id:id_product">{{ product.marca2_elevado }}</td>
+		</tr>
+		<tr ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3_normal.length && !product.marca3_elevado.length">
+			<td ng-repeat="product in products | by_id:id_product"><img src="images/marca19.jpg" /></td>
+			<td ng-repeat="product in products | by_id:id_product">{{ product.marca3_normal }}</td>
+			<td ng-repeat="product in products | by_id:id_product">{{ product.marca3_elevado }}</td>
+		</tr>
+	</table>
+</div>

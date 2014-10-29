@@ -1,0 +1,27 @@
+<div class="presentation-search">
+   Lubrificantes para sua viatura
+   <div class="no-exist" ng-repeat="product in products | by_id:id_product" ng-show="!product.viscosidade1.length && !product.viscosidade2.length && !product.norma_longlife.length && !product.visco_longlife.length && !product.capacidade.length && !product.norma_ace.length">
+   Não existem resultados para a sua viatura, por favor consulte um colaborador
+   </div>
+</div>
+
+<div class="box-table" ng-repeat="product in products | by_id:id_product" ng-hide="!product.viscosidade1.length && !product.viscosidade2.length && !product.norma_longlife.length && !product.visco_longlife.length && !product.capacidade.length && !product.norma_ace.length">
+	<table class="table-header">
+		<tr>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.norma_ace"><b>Norma ACE</b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.viscosidade1"><b>Viscosidade <span class="mini">Aconselhada</span></b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.viscosidade2"><b>Viscosidade <span class="mini">Preconizada Norauto</span></b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.norma_longlife"><b>Norma Longlife</b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.visco_longlife"><b>Visco Longlife</b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.capacidade"><b>Capacidade <span class="mini">Litros</span></b></th>
+		</tr>
+		<tr ng-repeat="product in products | by_id:id_product">
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.norma_ace">{{ product.norma_ace}}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.viscosidade1">{{ product.viscosidade1 }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.viscosidade2">{{ product.viscosidade2}}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.norma_longlife">{{ product.norma_longlife }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.visco_longlife">{{ product.visco_longlife}}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.capacidade">{{ product.capacidade }}</td>
+		</tr>
+	</table>
+</div>

@@ -1,22 +1,702 @@
 {
     "categories": [
-      {"name": "Lámpadas", "image": "images/JPG_ea3432f565b9ef7bb2adf28ed8a3037b.jpg", "link": "", "analytics": ""},
-      {"name": "Baterias", "image": "images/JPG_522bf00e0e6916019d91f887a485f680.jpg", "link": "", "analytics": ""},
-      {"name": "Velas Gasolina", "image": "images/JPG_7e24826e9662a04b1b07f3b2e35f0a3a.jpg", "link": "", "analytics": ""},
-      {"name": "Velas Diesel", "image": "images/JPG_1b8f41f54fae7093571fad2b228e7536.jpg", "link": "", "analytics": ""},
-      {"name": "Lubrificantes", "image": "images/JPG_9dbaf6305f7f9e54b28fd6585749d0f9.jpg", "link": "", "analytics": ""},
-      {"name": "Filtros", "image": "images/JPG_35f4382c5475f1026455bda6544c7fec.jpg", "link": "", "analytics": ""},
-      {"name": "Juntas e Bujoes", "image": "images/JPG_bf2c44308b57e5d569067e291665ed06.jpg", "link": "", "analytics": ""},
-      {"name": "Tampoes de Deposito", "image": "images/JPG_4fa2792e770ce0108f6a39dbee543cd7.jpg", "link": "", "analytics": ""},
-      {"name": "Escovas", "image": "images/JPG_796022312e9a7bea360a6068908b4930.jpg", "link": "", "analytics": ""},
-      {"name": "Espelhos e Retrovisores", "image": "images/JPG_1f5428a4171d4b0348ac296c349e713c.jpg", "link": "", "analytics": ""},
-      {"name": "Barras de Tejadilho", "image": "images/JPG_069e65f28d32af9a073f01a7f8988e4d.jpg", "link": "", "analytics": ""},
-      {"name": "Pemos Anti Roubo", "image": "images/JPG_14cbe4d6b229fdd74373f5e19c877eb2.jpg", "link": "", "analytics": ""},
-      {"name": "Amortecedores", "image": "images/JPG_aa5afaa83ad3748670a2b66b502ce30b.jpg", "link": "", "analytics": ""},
-      {"name": "Discos de Travao", "image": "images/JPG_574240e8b8853e7c6f1ec1cb5d2d42ee.jpg", "link": "", "analytics": ""},
-      {"name": "Pastilhas de Travoes", "image": "images/JPG_95898ccba259ae3e0323ba1a8584b562.jpg", "link": "", "analytics": ""},
-      {"name": "Colunas", "image": "images/JPG_ae39ed948b7d9901fedca81ada93d236.jpg", "link": "", "analytics": ""},
-      {"name": "Corrente de Neve", "image": "images/JPG_2632d1d88904964a283e8ff4d4217059.jpg", "link": "", "analytics": ""},
-      {"name": "Pneus", "image": "images/JPG_bc2056fb4c78425b90b6ed1cf6ab9bd8.jpg", "link": "", "analytics": ""}
+      {
+            "id": "1",
+            "active": "true",
+            "name": "Lámpadas", 
+            "image": "images/JPG_ea3432f565b9ef7bb2adf28ed8a3037b.jpg", 
+            "link": "catalog/category/lampadas/1/1", 
+            "analytics": "", 
+            "filter_type": "1", 
+            "last_update": "2014-10-15",
+            "services":
+                  {
+                        "service1":
+                        {
+                              "name": "Controlo e afinação faróis (excepto xenon)",
+                              "price": "15 zl"
+                        },
+                        "service2":
+                        {
+                              "name": "Focagem faróis nevoeiro",
+                              "price": "15 zl"
+                        },
+                        "service3":
+                        {
+                              "name": "Montagem lâmpada",
+                              "price": "5 zl"
+                        },
+                        "service4":
+                        {
+                              "name": "Montagem lâmpada com desmontagem de elementos (óptica, etc.)",
+                              "price": "15 zl"
+                        },
+                        "service5":
+                        {
+                              "name": "Montagem lâmpada com protector dianteiro + óptica",
+                              "price": "15 zl"
+                        },
+                        "service6":
+                        {
+                              "name": "Montagem óptica farol dianteiro (excepto xenon)",
+                              "price": "35 zl"
+                        },
+                        "service7":
+                        {
+                              "name": "Montagem óptica excepto xenon com desmontagem p·ra-choques",
+                              "price": "15 zl"
+                        },
+                        "service8":
+                        {
+                              "name": "Montagem farol traseiro",
+                              "price": "15 zl"
+                        },
+                        "service9":
+                        {
+                              "name": "Montagem retrovisor simples",
+                              "price": "15 zl"
+                        },
+                        "service10":
+                        {
+                              "name": "Montagem retrovisor regulável",
+                              "price": "115 zl"
+                        },
+                        "service11":
+                        {
+                              "name": "Montagem pisca",
+                              "price": "15 zl"
+                        }
+                  }
+            
+      },
+      {
+            "id": "2", 
+            "active": "true", 
+            "name": "Baterias", 
+            "image": "images/JPG_522bf00e0e6916019d91f887a485f680.jpg", 
+            "link": "catalog/category/baterias/2/2", 
+            "analytics": "", 
+            "filter_type": "2", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "Montagem bateria (acesso simples)",
+                        "price": "15 zl"
+                  },
+                  "service2":
+                  {
+                        "name": "Montagem bateria (acesso complexo + back up)",
+                        "price": "48 zl"
+                  }
+            }
+      },
+      {
+            "id": "3", 
+            "active": "true", 
+            "name": "Velas Gasolina", 
+            "image": "images/JPG_7e24826e9662a04b1b07f3b2e35f0a3a.jpg", 
+            "link": "catalog/category/velas-gasolina/3/2", 
+            "analytics": "", 
+            "filter_type": "2", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "Montagem (4) velas gasolina (acesso simples)",
+                        "price": "15 zl"
+                  },
+                  "service2":
+                  {
+                        "name": "Montagem velas gasolina (acesso complexo)",
+                        "price": "48 zl"
+                  }
+            }
+      },
+      {
+            "id": "4", 
+            "active": "true", 
+            "name": "Velas Diesel", 
+            "image": "images/JPG_1b8f41f54fae7093571fad2b228e7536.jpg", 
+            "link": "catalog/category/velas-diesel/4/2", 
+            "analytics": "", 
+            "filter_type": "2", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "Diagnóstico velas pre-incandescÍncia diesel",
+                        "price": "15 zl"
+                  },
+                  "service2":
+                  {
+                        "name": "Montagem velas pre-incandescÍncia diesela acesso simples (diagnóstico gratuito incluído)",
+                        "price": "48 zl"
+                  },
+                  "service3":
+                  {
+                        "name": "Montagem velas pre-incandescÍncia diesela acesso complexo (diagnóstico gratuito incluído)",
+                        "price": "48 zl"
+                  }
+            }
+      },
+      {
+            "id": "5", 
+            "active": "true", 
+            "name": "Lubrificantes", 
+            "image": "images/JPG_9dbaf6305f7f9e54b28fd6585749d0f9.jpg", 
+            "link": "catalog/category/lubrificantes/5/2", 
+            "analytics": "", 
+            "filter_type": "2", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "",
+                        "price": ""
+                  }
+            }
+      },
+      {
+            "id": "6", 
+            "active": "true", 
+            "name": "Filtros", 
+            "image": "images/JPG_35f4382c5475f1026455bda6544c7fec.jpg", 
+            "link": "catalog/category/filtros/6/3", 
+            "analytics": "", 
+            "filter_type": "3", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "Manutenção intermedia com óleo MDD supra 10w40 (depois de 2000)",
+                        "price": "15 zl"
+                  },
+                  "service2":
+                  {
+                        "name": "Manutenção intermedia com óleo MDD ultra (normas A3) 5w40 (depois de 2000)",
+                        "price": "8 zl"
+                  },
+                  "service3":
+                  {
+                        "name": "Montagem filtro de óleo (cartucho)",
+                        "price": "48 zl"
+                  },
+                  "service4":
+                  {
+                        "name": "Montagem filtro de ar N1 (acesso simples)",
+                        "price": "15 zl"
+                  },
+                  "service5":
+                  {
+                        "name": "Montagem filtro de ar N2 (acesso complexo)",
+                        "price": "48 zl"
+                  },
+                  "service6":
+                  {
+                        "name": "Montagem filtro de gasóleo simples",
+                        "price": "148 zl"
+                  },
+                  "service7":
+                  {
+                        "name": "Montagem filtro de gasóleo nova geraçao (alta pressâo)",
+                        "price": "15 zl"
+                  },
+                  "service8":
+                  {
+                        "name": "Montagem filtro de gasolina (simples) simples",
+                        "price": "78 zl"
+                  },
+                  "service9":
+                  {
+                        "name": "Montagem filtro de gasolina (injecção)",
+                        "price": "48 zl"
+                  },
+                  "service10":
+                  {
+                        "name": "Montagem filtro de habitáculo Nº 1",
+                        "price": "25 zl"
+                  },
+                  "service11":
+                  {
+                        "name": "Montagem filtro de habitáculo Nº 2",
+                        "price": "48 zl"
+                  },
+                  "service12":
+                  {
+                        "name": "Correcção nível da caixa/diferencial (óleo incluído)",
+                        "price": "38 zl"
+                  },
+                  "service13":
+                  {
+                        "name": "Mudança óleo caixa/diferencial (óleo adicional)",
+                        "price": "48 zl"
+                  }
+            }
+      },
+      {
+            "id": "7", 
+            "active": "true", 
+            "name": "Juntas e Bujoes", 
+            "image": "images/JPG_bf2c44308b57e5d569067e291665ed06.jpg", 
+            "link": "catalog/category/juntas-e-bujoes/7/2", 
+            "analytics": "", 
+            "filter_type": "2", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "",
+                        "price": ""
+                  }
+            }
+      },
+      {
+            "id": "8", 
+            "active": "true", 
+            "name": "Tampoes de Deposito", 
+            "image": "images/JPG_4fa2792e770ce0108f6a39dbee543cd7.jpg", 
+            "link": "catalog/category/tampoes-de-deposito/8/1", 
+            "analytics": "", 
+            "filter_type": "1", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "",
+                        "price": ""
+                  }
+            }
+      },
+      {
+            "id": "9", 
+            "active": "true", 
+            "name": "Escovas", 
+            "image": "images/JPG_796022312e9a7bea360a6068908b4930.jpg", 
+            "link": "catalog/category/escovas/9/1", 
+            "analytics": "", 
+            "filter_type": "1", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "Montagem escovas limpa vidros (o par)",
+                        "price": "23 zl"
+                  }
+            }
+      },
+      {
+            "id": "10", 
+            "active": "true", 
+            "name": "Espelhos e Retrovisores", 
+            "image": "images/JPG_1f5428a4171d4b0348ac296c349e713c.jpg", 
+            "link": "catalog/category/espelhos-e-retrovisores/10/1", 
+            "analytics": "", 
+            "filter_type": "1", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "",
+                        "price": ""
+                  }
+            }
+      },
+      {
+            "id": "11", 
+            "active": "true", 
+            "name": "Barras de Tejadilho", 
+            "image": "images/JPG_069e65f28d32af9a073f01a7f8988e4d.jpg", 
+            "link": "catalog/category/barras-de-tejadilho/11/1", 
+            "analytics": "", 
+            "filter_type": "1", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "Montagem barras de tejadilho",
+                        "price": "15 zl"
+                  },
+                  "service2":
+                  {
+                        "name": "Montagem mala de tejadilho em barras",
+                        "price": "48 zl"
+                  },
+                  "service3":
+                  {
+                        "name": "Montagem porta bicicletas",
+                        "price": "25 zl"
+                  }
+            }
+      },
+      {
+            "id": "12", 
+            "active": "true", 
+            "name": "Pernos Anti Roubo", 
+            "image": "images/JPG_14cbe4d6b229fdd74373f5e19c877eb2.jpg", 
+            "link": "catalog/category/pernos-anti-roubo/12/4", 
+            "analytics": "", 
+            "filter_type": "4", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "",
+                        "price": ""
+                  }
+            }
+      },
+      {
+            "id": "13", 
+            "active": "true", 
+            "name": "Amortecedores", 
+            "image": "images/JPG_aa5afaa83ad3748670a2b66b502ce30b.jpg", 
+            "link": "catalog/category/amortecedores/13/5", 
+            "analytics": "", 
+            "filter_type": "5", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "Substituição amortecedores MAC-PHERSON",
+                        "price": "15 zl"
+                  },
+                  "service2":
+                  {
+                        "name": "Substituição 2 amortecedores simples",
+                        "price": "48 zl"
+                  },
+                  "service3":
+                  {
+                        "name": "Montagem de 2 cabeçotes de amortecedores",
+                        "price": "25 zl"
+                  },
+                  "service4":
+                  {
+                        "name": "Substituição amortecedores 'cartucho'",
+                        "price": "32 zl"
+                  }
+            }
+      },
+      {
+            "id": "14", 
+            "active": "true", 
+            "name": "Discos de Travao", 
+            "image": "images/JPG_574240e8b8853e7c6f1ec1cb5d2d42ee.jpg", 
+            "link": "catalog/category/discos-de-travao/14/2", 
+            "analytics": "", 
+            "filter_type": "2", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "Montagem discos e pastilhas (o par) frente",
+                        "price": "15 zl"
+                  },
+                  "service2":
+                  {
+                        "name": "Montagem discos e pastilhas (o par) traseiro",
+                        "price": "8 zl"
+                  },
+                  "service3":
+                  {
+                        "name": "Purga travão + mudança óleo travões (DOT 5 incluído)",
+                        "price": "48 zl"
+                  },
+                  "service4":
+                  {
+                        "name": "Montagem kit travagem tambor (o par)",
+                        "price": "15 zl"
+                  },
+                  "service5":
+                  {
+                        "name": "Montagem maxilas (o par)",
+                        "price": "48 zl"
+                  },
+                  "service6":
+                  {
+                        "name": "Montagem cilindros de rodas (o par)",
+                        "price": "148 zl"
+                  },
+                  "service7":
+                  {
+                        "name": "Montagem tambores (o par)",
+                        "price": "15 zl"
+                  },
+                  "service8":
+                  {
+                        "name": "Rectificação tambores (o par)",
+                        "price": "78 zl"
+                  },
+                  "service9":
+                  {
+                        "name": "Montagem 1 cabo de travão",
+                        "price": "48 zl"
+                  },
+                  "service10":
+                  {
+                        "name": "Montagem cilindro hidráulico (bomba central)",
+                        "price": "25 zl"
+                  },
+                  "service11":
+                  {
+                        "name": "Montagem pinça travão (esquerdo ou direito)",
+                        "price": "48 zl"
+                  },
+                  "service12":
+                  {
+                        "name": "Montagem flexível (tubo) travão (frente e traseiro)",
+                        "price": "38 zl"
+                  },
+                  "service13":
+                  {
+                        "name": "Montagem tubagem de travagem dianteira ou traseira (unidade)",
+                        "price": "48 zl"
+                  },
+                  "service14":
+                  {
+                        "name": "Montagem corrector traseiro",
+                        "price": "48 zl"
+                  }
+            }
+      },
+      {
+            "id": "15", 
+            "active": "true", 
+            "name": "Pastilhas de Travoes", 
+            "image": "images/JPG_95898ccba259ae3e0323ba1a8584b562.jpg", 
+            "link": "catalog/category/pastilhas-de-travoes/15/2", 
+            "analytics": "", 
+            "filter_type": "2", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "Montagem pastilhas travão (o par) frente",
+                        "price": "15 zl"
+                  },
+                  "service2":
+                  {
+                        "name": "Montagem pastilhas travão (o par) traseiro",
+                        "price": "8 zl"
+                  },
+                  "service3":
+                  {
+                        "name": "Montagem discos e pastilhas (o par) frente",
+                        "price": "48 zl"
+                  },
+                  "service4":
+                  {
+                        "name": "Montagem discos e pastilhas (o par) traseiro",
+                        "price": "15 zl"
+                  },
+                  "service5":
+                  {
+                        "name": "Purga travão + mudança óleo travões (DOT 5 incluído)",
+                        "price": "48 zl"
+                  },
+                  "service6":
+                  {
+                        "name": "Montagem kit travagem tambor (o par)",
+                        "price": "148 zl"
+                  },
+                  "service7":
+                  {
+                        "name": "Montagem maxilas (o par)",
+                        "price": "15 zl"
+                  },
+                  "service8":
+                  {
+                        "name": "Montagem cilindros de rodas (o par)",
+                        "price": "78 zl"
+                  },
+                  "service9":
+                  {
+                        "name": "Montagem tambores (o par)",
+                        "price": "48 zl"
+                  },
+                  "service10":
+                  {
+                        "name": "Rectificação tambores (o par)",
+                        "price": "25 zl"
+                  },
+                  "service11":
+                  {
+                        "name": "Montagem 1 cabo de travão",
+                        "price": "48 zl"
+                  },
+                  "service12":
+                  {
+                        "name": "Montagem cilindro hidráulico (bomba central)",
+                        "price": "38 zl"
+                  },
+                  "service13":
+                  {
+                        "name": "Montagem pinça travão (esquerdo ou direito)",
+                        "price": "48 zl"
+                  },
+                  "service14":
+                  {
+                        "name": "Montagem flexível (tubo) travão (frente e traseiro)",
+                        "price": "48 zl"
+                  },
+                  "service15":
+                  {
+                        "name": "Montagem tubagem de travagem dianteira ou traseira (unidade)",
+                        "price": "125 zl"
+                  },
+                  "service16":
+                  {
+                        "name": "Montagem corrector traseiro",
+                        "price": "75 zl"
+                  }
+            }
+      },
+      {
+            "id": "16", 
+            "active": "true", 
+            "name": "Colunas", 
+            "image": "images/JPG_ae39ed948b7d9901fedca81ada93d236.jpg", 
+            "link": "catalog/category/colunas/16/1", 
+            "analytics": "", 
+            "filter_type": "1", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "Montagem auto-rádio ISO",
+                        "price": "15 zl"
+                  },
+                  "service2":
+                  {
+                        "name": "Montagem auto-rádio em veículo pré-equipado",
+                        "price": "8 zl"
+                  },
+                  "service3":
+                  {
+                        "name": "Montagem auto-rádio + interface volante simples",
+                        "price": "48 zl"
+                  },
+                  "service4":
+                  {
+                        "name": "Montagem auto-rádio em veículo (não pré-equipado)",
+                        "price": "15 zl"
+                  },
+                  "service5":
+                  {
+                        "name": "Montagem amplificador + afinação",
+                        "price": "48 zl"
+                  },
+                  "service6":
+                  {
+                        "name": "Montagem par altifalantes/colunas em veículo pré-equipado",
+                        "price": "148 zl"
+                  },
+                  "service7":
+                  {
+                        "name": "Montagem par altifalantes frente em veículo pré equipado + desmontagem dos paineis",
+                        "price": "15 zl"
+                  },
+                  "service8":
+                  {
+                        "name": "Montagem par altifalantes/colunas em veículo não pré-equipado",
+                        "price": "78 zl"
+                  },
+                  "service9":
+                  {
+                        "name": "Montagem par altifalantes frente em veículos não pré-equipado + desmontagem dos paineis",
+                        "price": "48 zl"
+                  },
+                  "service10":
+                  {
+                        "name": "Montagem par altifalantes/colunas em lugares não previstos",
+                        "price": "25 zl"
+                  },
+                  "service11":
+                  {
+                        "name": "Montagem Woofer ou Sub-Woofer",
+                        "price": "48 zl"
+                  },
+                  "service12":
+                  {
+                        "name": "Montagem antena tejadilho em veículo pré-equipado",
+                        "price": "38 zl"
+                  },
+                  "service13":
+                  {
+                        "name": "Montagem antena tejadilho em veículo não pré-equipado",
+                        "price": "48 zl"
+                  },
+                  "service14":
+                  {
+                        "name": "Montagem antena em guarda-lamas veículo pré-equipado",
+                        "price": "48 zl"
+                  },
+                  "service15":
+                  {
+                        "name": "Montagem antena em guarda-lamas em veículo não pré-equipado",
+                        "price": "125 zl"
+                  },
+                  "service16":
+                  {
+                        "name": "Montagem antena electrónica p·ra-brisas",
+                        "price": "75 zl"
+                  },
+                  "service17":
+                  {
+                        "name": "Desmontagem auto-radio",
+                        "price": "15 zl"
+                  },
+                  "service18":
+                  {
+                        "name": "Desmontagem amplificador com identificação dos cabos",
+                        "price": "8 zl"
+                  },
+                  "service19":
+                  {
+                        "name": "Desmontagem par altifalantes/colunas",
+                        "price": "48 zl"
+                  },
+                  "service20":
+                  {
+                        "name": "Adicional desmontagem forro portas",
+                        "price": "15 zl"
+                  }
+            }
+      },
+      {
+            "id": "17", 
+            "active": "true", 
+            "name": "Corrente de Neve", 
+            "image": "images/JPG_2632d1d88904964a283e8ff4d4217059.jpg", 
+            "link": "catalog/category/corrente-de-neve/17/6", 
+            "analytics": "", 
+            "filter_type": "6", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "",
+                        "price": ""
+                  }
+            }
+      },
+      {
+            "id": "18", 
+            "active": "true", 
+            "name": "Pneus", 
+            "image": "images/JPG_bc2056fb4c78425b90b6ed1cf6ab9bd8.jpg", 
+            "link": "catalog/category/pneus/18/6", 
+            "analytics": "", 
+            "filter_type": "6", 
+            "last_update": "2014-10-15",
+            "services":{
+                  "service1":
+                  {
+                        "name": "",
+                        "price": ""
+                  }
+            }
+      }
     ]
 }

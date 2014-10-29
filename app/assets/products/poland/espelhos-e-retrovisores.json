@@ -1,0 +1,3942 @@
+[
+    {
+        "id": "1",
+        "marca_carro": "ALFA ROMEO",
+        "modelo": "ALFA 33",
+        "data": "4.90 >",
+        "esp_segur_condu": "1351",
+        "esp_segur_passag": "1351",
+        "esp_subst_condu": "2351",
+        "esp_subst_passag": "3352"
+    },
+    {
+        "id": "2",
+        "marca_carro": "ALFA ROMEO",
+        "modelo": "ALFA 75",
+        "data": "1990 >",
+        "esp_segur_condu": "1351",
+        "esp_segur_passag": "1351",
+        "esp_subst_condu": "2351",
+        "esp_subst_passag": "3352"
+    },
+    {
+        "id": "3",
+        "marca_carro": "ALFA ROMEO",
+        "modelo": "ALFA 145",
+        "data": ">",
+        "esp_segur_condu": "1349",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2349",
+        "esp_subst_passag": "3350"
+    },
+    {
+        "id": "4",
+        "marca_carro": "ALFA ROMEO",
+        "modelo": "ALFA 146",
+        "data": ">",
+        "esp_segur_condu": "1349",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2349",
+        "esp_subst_passag": "3350"
+    },
+    {
+        "id": "5",
+        "marca_carro": "ALFA ROMEO",
+        "modelo": "ALFA 147",
+        "data": ">",
+        "esp_segur_condu": "1367",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2367",
+        "esp_subst_passag": "3368"
+    },
+    {
+        "id": "6",
+        "marca_carro": "ALFA ROMEO",
+        "modelo": "ALFA 155",
+        "data": ">",
+        "esp_segur_condu": "1357",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2357",
+        "esp_subst_passag": "3358"
+    },
+    {
+        "id": "7",
+        "marca_carro": "ALFA ROMEO",
+        "modelo": "ALFA 156",
+        "data": ">",
+        "esp_segur_condu": "1361",
+        "esp_segur_passag": "1361",
+        "esp_subst_condu": "2361",
+        "esp_subst_passag": "3362"
+    },
+    {
+        "id": "8",
+        "marca_carro": "ALFA ROMEO",
+        "modelo": "ALFA 159",
+        "data": ">",
+        "esp_segur_condu": "1369",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2369",
+        "esp_subst_passag": "3370"
+    },
+    {
+        "id": "9",
+        "marca_carro": "ALFA ROMEO",
+        "modelo": "ALFA 164",
+        "data": ">",
+        "esp_segur_condu": "1351",
+        "esp_segur_passag": "1351",
+        "esp_subst_condu": "2351",
+        "esp_subst_passag": "3352"
+    },
+    {
+        "id": "10",
+        "marca_carro": "ALFA ROMEO",
+        "modelo": "ALFA 164 Super",
+        "data": ">",
+        "esp_segur_condu": "1359",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2359",
+        "esp_subst_passag": "3360"
+    },
+    {
+        "id": "11",
+        "marca_carro": "ALFA ROMEO",
+        "modelo": "ALFA 166",
+        "data": ">",
+        "esp_segur_condu": "1363",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2363",
+        "esp_subst_passag": "3364"
+    },
+    {
+        "id": "12",
+        "marca_carro": "ALFA ROMEO",
+        "modelo": "ALFA Brera",
+        "data": ">",
+        "esp_segur_condu": "1371",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2371",
+        "esp_subst_passag": "3372"
+    },
+    {
+        "id": "13",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A2",
+        "data": ">",
+        "esp_segur_condu": "1467",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2467",
+        "esp_subst_passag": "3468"
+    },
+    {
+        "id": "14",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A3",
+        "data": "1996 > 2000",
+        "esp_segur_condu": "1459",
+        "esp_segur_passag": "1460",
+        "esp_subst_condu": "2459",
+        "esp_subst_passag": "3460"
+    },
+    {
+        "id": "15",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A3",
+        "data": "2000 > 2003",
+        "esp_segur_condu": "1461",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2461",
+        "esp_subst_passag": "3462"
+    },
+    {
+        "id": "16",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A3",
+        "data": "2003 >",
+        "esp_segur_condu": "1463",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2463",
+        "esp_subst_passag": "3464"
+    },
+    {
+        "id": "17",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A3",
+        "data": "2008 >",
+        "esp_segur_condu": "1469",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2470",
+        "esp_subst_passag": "3470"
+    },
+    {
+        "id": "18",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A4",
+        "data": "1996 > 2000",
+        "esp_segur_condu": "1459",
+        "esp_segur_passag": "1460",
+        "esp_subst_condu": "2459",
+        "esp_subst_passag": "3460"
+    },
+    {
+        "id": "19",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A4",
+        "data": "2000 > 2001",
+        "esp_segur_condu": "1461",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2461",
+        "esp_subst_passag": "3462"
+    },
+    {
+        "id": "20",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A4",
+        "data": "2001 >",
+        "esp_segur_condu": "1463",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2463",
+        "esp_subst_passag": "3464"
+    },
+    {
+        "id": "21",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A4",
+        "data": "2008 >",
+        "esp_segur_condu": "1469",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2470",
+        "esp_subst_passag": "3470"
+    },
+    {
+        "id": "22",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A5",
+        "data": "2008 >",
+        "esp_segur_condu": "1469",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2470",
+        "esp_subst_passag": "3470"
+    },
+    {
+        "id": "23",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A6",
+        "data": "1996 > 2000",
+        "esp_segur_condu": "1459",
+        "esp_segur_passag": "1460",
+        "esp_subst_condu": "2459",
+        "esp_subst_passag": "3460"
+    },
+    {
+        "id": "24",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A6",
+        "data": "2000 > 2003",
+        "esp_segur_condu": "1461",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2461",
+        "esp_subst_passag": "3462"
+    },
+    {
+        "id": "25",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A6",
+        "data": "2004 >",
+        "esp_segur_condu": "1463",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2463",
+        "esp_subst_passag": "3464"
+    },
+    {
+        "id": "26",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A6",
+        "data": "2008 >",
+        "esp_segur_condu": "1469",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2470",
+        "esp_subst_passag": "3470"
+    },
+    {
+        "id": "27",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI A8",
+        "data": "1996 >",
+        "esp_segur_condu": "1459",
+        "esp_segur_passag": "1460",
+        "esp_subst_condu": "2459",
+        "esp_subst_passag": "3460"
+    },
+    {
+        "id": "28",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI 80",
+        "data": "10.86 >",
+        "esp_segur_condu": "1453",
+        "esp_segur_passag": "1453",
+        "esp_subst_condu": "2453",
+        "esp_subst_passag": "3454"
+    },
+    {
+        "id": "29",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI 100",
+        "data": "1982 > 1991",
+        "esp_segur_condu": "1455",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2455",
+        "esp_subst_passag": "3456"
+    },
+    {
+        "id": "30",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI 100",
+        "data": "1991 >",
+        "esp_segur_condu": "1457",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2457",
+        "esp_subst_passag": "3458"
+    },
+    {
+        "id": "31",
+        "marca_carro": "AUDI",
+        "modelo": "AUDI TT",
+        "data": ">",
+        "esp_segur_condu": "1465",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2465",
+        "esp_subst_passag": "3466"
+    },
+    {
+        "id": "32",
+        "marca_carro": "BMW",
+        "modelo": "SERIE 1",
+        "data": "2005 >",
+        "esp_segur_condu": "1373",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2373",
+        "esp_subst_passag": "3374"
+    },
+    {
+        "id": "33",
+        "marca_carro": "BMW",
+        "modelo": "SERIE 3",
+        "data": "1981 > 1989",
+        "esp_segur_condu": "1351",
+        "esp_segur_passag": "1351",
+        "esp_subst_condu": "2351",
+        "esp_subst_passag": "3352"
+    },
+    {
+        "id": "34",
+        "marca_carro": "BMW",
+        "modelo": "SERIE 3",
+        "data": "1990 > 2004",
+        "esp_segur_condu": "1353",
+        "esp_segur_passag": "1353",
+        "esp_subst_condu": "2353",
+        "esp_subst_passag": "3354"
+    },
+    {
+        "id": "35",
+        "marca_carro": "BMW",
+        "modelo": "SERIE 3",
+        "data": "2005 >",
+        "esp_segur_condu": "1373",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2373",
+        "esp_subst_passag": "3374"
+    },
+    {
+        "id": "36",
+        "marca_carro": "BMW",
+        "modelo": "SERIE 5",
+        "data": "Até a 1994",
+        "esp_segur_condu": "1351",
+        "esp_segur_passag": "1351",
+        "esp_subst_condu": "2351",
+        "esp_subst_passag": "3352"
+    },
+    {
+        "id": "37",
+        "marca_carro": "BMW",
+        "modelo": "SERIE 5",
+        "data": "1995 > 2003",
+        "esp_segur_condu": "1353",
+        "esp_segur_passag": "1353",
+        "esp_subst_condu": "2353",
+        "esp_subst_passag": "3354"
+    },
+    {
+        "id": "38",
+        "marca_carro": "BMW",
+        "modelo": "SERIE 5",
+        "data": "2004 >",
+        "esp_segur_condu": "1371",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2371",
+        "esp_subst_passag": "3372"
+    },
+    {
+        "id": "39",
+        "marca_carro": "BMW",
+        "modelo": "SERIE 7",
+        "data": "1987 > 1994",
+        "esp_segur_condu": "1353",
+        "esp_segur_passag": "1353",
+        "esp_subst_condu": "2353",
+        "esp_subst_passag": "3354"
+    },
+    {
+        "id": "40",
+        "marca_carro": "BMW",
+        "modelo": "SERIE 7",
+        "data": "1994 > 2002",
+        "esp_segur_condu": "1365",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2365",
+        "esp_subst_passag": "3366"
+    },
+    {
+        "id": "41",
+        "marca_carro": "BMW",
+        "modelo": "X 3",
+        "data": "2006 > 2009",
+        "esp_segur_condu": "1377",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2377",
+        "esp_subst_passag": "3378"
+    },
+    {
+        "id": "42",
+        "marca_carro": "BMW",
+        "modelo": "X 5 s_rie I",
+        "data": "2000 > 2006",
+        "esp_segur_condu": "1379",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2379",
+        "esp_subst_passag": "3380"
+    },
+    {
+        "id": "43",
+        "marca_carro": "BMW",
+        "modelo": "X 5 s_rie II",
+        "data": "2007 >",
+        "esp_segur_condu": "1381",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2381",
+        "esp_subst_passag": "3382"
+    },
+    {
+        "id": "44",
+        "marca_carro": "BMW",
+        "modelo": "X 6",
+        "data": "2008 >",
+        "esp_segur_condu": "1381",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2381",
+        "esp_subst_passag": "3382"
+    },
+    {
+        "id": "45",
+        "marca_carro": "CITROEN",
+        "modelo": "AX",
+        "data": ">",
+        "esp_segur_condu": "1101",
+        "esp_segur_passag": "1102",
+        "esp_subst_condu": "2101",
+        "esp_subst_passag": "3102"
+    },
+    {
+        "id": "46",
+        "marca_carro": "CITROEN",
+        "modelo": "BERLINGO",
+        "data": "9.96 >",
+        "esp_segur_condu": "1127",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2127",
+        "esp_subst_passag": "3128"
+    },
+    {
+        "id": "47",
+        "marca_carro": "CITROEN",
+        "modelo": "BERLINGO",
+        "data": "4.08 >",
+        "esp_segur_condu": "1117",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2117",
+        "esp_subst_passag": "3118"
+    },
+    {
+        "id": "48",
+        "marca_carro": "CITROEN",
+        "modelo": "BX",
+        "data": "Até a 6.86",
+        "esp_segur_condu": "1101",
+        "esp_segur_passag": "1102",
+        "esp_subst_condu": "2101",
+        "esp_subst_passag": "3102"
+    },
+    {
+        "id": "49",
+        "marca_carro": "CITROEN",
+        "modelo": "BX retro. regula?_o exterior",
+        "data": "7.86 >",
+        "esp_segur_condu": "1003",
+        "esp_segur_passag": "1003",
+        "esp_subst_condu": "2003",
+        "esp_subst_passag": "3004"
+    },
+    {
+        "id": "50",
+        "marca_carro": "CITROEN",
+        "modelo": "BX retro. regula?_o el_ctrica",
+        "data": "1990 >",
+        "esp_segur_condu": "",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2109",
+        "esp_subst_passag": "3110"
+    },
+    {
+        "id": "51",
+        "marca_carro": "CITROEN",
+        "modelo": "C1",
+        "data": ">",
+        "esp_segur_condu": "1137",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2137",
+        "esp_subst_passag": "3138"
+    },
+    {
+        "id": "52",
+        "marca_carro": "CITROEN",
+        "modelo": "C2",
+        "data": ">",
+        "esp_segur_condu": "1133",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2133",
+        "esp_subst_passag": "3134"
+    },
+    {
+        "id": "53",
+        "marca_carro": "CITROEN",
+        "modelo": "C3",
+        "data": ">",
+        "esp_segur_condu": "1133",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2133",
+        "esp_subst_passag": "3134"
+    },
+    {
+        "id": "54",
+        "marca_carro": "CITROEN",
+        "modelo": "C4",
+        "data": "2004 > 2007",
+        "esp_segur_condu": "1139",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2139",
+        "esp_subst_passag": "3140"
+    },
+    {
+        "id": "55",
+        "marca_carro": "CITROEN",
+        "modelo": "C4",
+        "data": "2008 >",
+        "esp_segur_condu": "1147",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2147",
+        "esp_subst_passag": "3148"
+    },
+    {
+        "id": "56",
+        "marca_carro": "CITROEN",
+        "modelo": "C4 PICASSO",
+        "data": ">",
+        "esp_segur_condu": "1145",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2145",
+        "esp_subst_passag": "3146"
+    },
+    {
+        "id": "57",
+        "marca_carro": "CITROEN",
+        "modelo": "C5",
+        "data": "2001 >",
+        "esp_segur_condu": "1135",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2135",
+        "esp_subst_passag": "3136"
+    },
+    {
+        "id": "58",
+        "marca_carro": "CITROEN",
+        "modelo": "C6",
+        "data": ">",
+        "esp_segur_condu": "1135",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2135",
+        "esp_subst_passag": "3136"
+    },
+    {
+        "id": "59",
+        "marca_carro": "CITROEN",
+        "modelo": "C8",
+        "data": ">",
+        "esp_segur_condu": "1025",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2025",
+        "esp_subst_passag": "3026"
+    },
+    {
+        "id": "60",
+        "marca_carro": "CITROEN",
+        "modelo": "DS3",
+        "data": "2008 >",
+        "esp_segur_condu": "1147",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2147",
+        "esp_subst_passag": "3148"
+    },
+    {
+        "id": "61",
+        "marca_carro": "CITROEN",
+        "modelo": "EVASION",
+        "data": ">",
+        "esp_segur_condu": "1049",
+        "esp_segur_passag": "1050",
+        "esp_subst_condu": "2049",
+        "esp_subst_passag": "3050"
+    },
+    {
+        "id": "62",
+        "marca_carro": "CITROEN",
+        "modelo": "SAXO",
+        "data": ">",
+        "esp_segur_condu": "1121",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2121",
+        "esp_subst_passag": "3122"
+    },
+    {
+        "id": "63",
+        "marca_carro": "CITROEN",
+        "modelo": "XANTIA",
+        "data": ">",
+        "esp_segur_condu": "1119",
+        "esp_segur_passag": "1120",
+        "esp_subst_condu": "2119",
+        "esp_subst_passag": "3120"
+    },
+    {
+        "id": "64",
+        "marca_carro": "CITROEN",
+        "modelo": "XM",
+        "data": "Até a 1996",
+        "esp_segur_condu": "1103",
+        "esp_segur_passag": "1104",
+        "esp_subst_condu": "2103",
+        "esp_subst_passag": "3104"
+    },
+    {
+        "id": "65",
+        "marca_carro": "CITROEN",
+        "modelo": "XM",
+        "data": "1996 >",
+        "esp_segur_condu": "1129",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2129",
+        "esp_subst_passag": "3130"
+    },
+    {
+        "id": "66",
+        "marca_carro": "CITROEN",
+        "modelo": "XSARA",
+        "data": "9.97 >",
+        "esp_segur_condu": "1125",
+        "esp_segur_passag": "1126",
+        "esp_subst_condu": "2125",
+        "esp_subst_passag": "3126"
+    },
+    {
+        "id": "67",
+        "marca_carro": "CITROEN",
+        "modelo": "XSARA",
+        "data": "2002 >",
+        "esp_segur_condu": "1141",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2141",
+        "esp_subst_passag": "3142"
+    },
+    {
+        "id": "68",
+        "marca_carro": "CITROEN",
+        "modelo": "XSARA PICASSO",
+        "data": "12.99 >",
+        "esp_segur_condu": "1131",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2131",
+        "esp_subst_passag": "3132"
+    },
+    {
+        "id": "69",
+        "marca_carro": "CITROEN",
+        "modelo": "ZX",
+        "data": ">",
+        "esp_segur_condu": "1115",
+        "esp_segur_passag": "1116",
+        "esp_subst_condu": "2115",
+        "esp_subst_passag": "3116"
+    },
+    {
+        "id": "70",
+        "marca_carro": "CITROEN",
+        "modelo": "C15",
+        "data": ">",
+        "esp_segur_condu": "1123",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2123",
+        "esp_subst_passag": "3124"
+    },
+    {
+        "id": "71",
+        "marca_carro": "CITROEN",
+        "modelo": "JUMPER",
+        "data": "2006 >",
+        "esp_segur_condu": "1143",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2143",
+        "esp_subst_passag": "3144"
+    },
+    {
+        "id": "72",
+        "marca_carro": "CITROEN",
+        "modelo": "JUMPY",
+        "data": ">",
+        "esp_segur_condu": "1269",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "3269",
+        "esp_subst_passag": "3270"
+    },
+    {
+        "id": "73",
+        "marca_carro": "DAEWOO",
+        "modelo": "ESPERO",
+        "data": ">",
+        "esp_segur_condu": "1895",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2895",
+        "esp_subst_passag": "3896"
+    },
+    {
+        "id": "74",
+        "marca_carro": "DAEWOO",
+        "modelo": "KALOS",
+        "data": "05.2008 >",
+        "esp_segur_condu": "1925",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2925",
+        "esp_subst_passag": "3926"
+    },
+    {
+        "id": "75",
+        "marca_carro": "DAEWOO",
+        "modelo": "LANOS",
+        "data": ">",
+        "esp_segur_condu": "1893",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2893",
+        "esp_subst_passag": "3894"
+    },
+    {
+        "id": "76",
+        "marca_carro": "DAEWOO",
+        "modelo": "LEGANZA",
+        "data": ">",
+        "esp_segur_condu": "1921",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2921",
+        "esp_subst_passag": "3922"
+    },
+    {
+        "id": "77",
+        "marca_carro": "DAEWOO",
+        "modelo": "MATIZ",
+        "data": ">",
+        "esp_segur_condu": "1899",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2899",
+        "esp_subst_passag": "3900"
+    },
+    {
+        "id": "78",
+        "marca_carro": "DAEWOO",
+        "modelo": "NEXIA",
+        "data": "1997 >",
+        "esp_segur_condu": "1891",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2891",
+        "esp_subst_passag": "3892"
+    },
+    {
+        "id": "79",
+        "marca_carro": "DAEWOO",
+        "modelo": "NUBIRA",
+        "data": "Até a 2003",
+        "esp_segur_condu": "1897",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2897",
+        "esp_subst_passag": "3898"
+    },
+    {
+        "id": "80",
+        "marca_carro": "DAEWOO",
+        "modelo": "TACUMA",
+        "data": "2006 >",
+        "esp_segur_condu": "1923",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2923",
+        "esp_subst_passag": "3924"
+    },
+    {
+        "id": "81",
+        "marca_carro": "FIAT",
+        "modelo": "500",
+        "data": "10.2007 >",
+        "esp_segur_condu": "1289",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2289",
+        "esp_subst_passag": "3290"
+    },
+    {
+        "id": "82",
+        "marca_carro": "FIAT",
+        "modelo": "BRAVO-BRAVA",
+        "data": ">",
+        "esp_segur_condu": "1247",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2247",
+        "esp_subst_passag": "3248"
+    },
+    {
+        "id": "83",
+        "marca_carro": "FIAT",
+        "modelo": "BRAVO",
+        "data": "2007 >",
+        "esp_segur_condu": "1281",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2281",
+        "esp_subst_passag": "3282"
+    },
+    {
+        "id": "84",
+        "marca_carro": "FIAT",
+        "modelo": "CINQUECENTO",
+        "data": ">",
+        "esp_segur_condu": "1265",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2265",
+        "esp_subst_passag": "3266"
+    },
+    {
+        "id": "85",
+        "marca_carro": "FIAT",
+        "modelo": "CROMA",
+        "data": "1990 > 2005",
+        "esp_segur_condu": "1259",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2259",
+        "esp_subst_passag": "3260"
+    },
+    {
+        "id": "86",
+        "marca_carro": "FIAT",
+        "modelo": "CROMA",
+        "data": "2005 >",
+        "esp_segur_condu": "1291",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2291",
+        "esp_subst_passag": "3292"
+    },
+    {
+        "id": "87",
+        "marca_carro": "FIAT",
+        "modelo": "DOBLO",
+        "data": ">",
+        "esp_segur_condu": "1281",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2281",
+        "esp_subst_passag": "3282"
+    },
+    {
+        "id": "88",
+        "marca_carro": "FIAT",
+        "modelo": "IDEA",
+        "data": "2003 >",
+        "esp_segur_condu": "1279",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2279",
+        "esp_subst_passag": "3280"
+    },
+    {
+        "id": "89",
+        "marca_carro": "FIAT",
+        "modelo": "IDEA",
+        "data": "2010 >",
+        "esp_segur_condu": "1291",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2291",
+        "esp_subst_passag": "3292"
+    },
+    {
+        "id": "90",
+        "marca_carro": "FIAT",
+        "modelo": "MAREA",
+        "data": "9.1996 >",
+        "esp_segur_condu": "1247",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2247",
+        "esp_subst_passag": "3248"
+    },
+    {
+        "id": "91",
+        "marca_carro": "FIAT",
+        "modelo": "MULTIPLA",
+        "data": "4.1999 >",
+        "esp_segur_condu": "1275",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2275",
+        "esp_subst_passag": "3276"
+    },
+    {
+        "id": "92",
+        "marca_carro": "FIAT",
+        "modelo": "PALIO",
+        "data": "1997 > 2000",
+        "esp_segur_condu": "1263",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2263",
+        "esp_subst_passag": "3264"
+    },
+    {
+        "id": "93",
+        "marca_carro": "FIAT",
+        "modelo": "PALIO",
+        "data": "2002 >",
+        "esp_segur_condu": "1295",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2295",
+        "esp_subst_passag": "3296"
+    },
+    {
+        "id": "94",
+        "marca_carro": "FIAT",
+        "modelo": "PANDA 750-1000-4x4",
+        "data": "1985 > 1992",
+        "esp_segur_condu": "1261",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2261",
+        "esp_subst_passag": "3262"
+    },
+    {
+        "id": "95",
+        "marca_carro": "FIAT",
+        "modelo": "PANDA",
+        "data": "2003 > 2009",
+        "esp_segur_condu": "1283",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2283",
+        "esp_subst_passag": "3284"
+    },
+    {
+        "id": "96",
+        "marca_carro": "FIAT",
+        "modelo": "PANDA",
+        "data": "2010 >",
+        "esp_segur_condu": "1231",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2231",
+        "esp_subst_passag": "3232"
+    },
+    {
+        "id": "97",
+        "marca_carro": "FIAT",
+        "modelo": "PUNTO",
+        "data": "Até a 07.99",
+        "esp_segur_condu": "1263",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2263",
+        "esp_subst_passag": "3264"
+    },
+    {
+        "id": "98",
+        "marca_carro": "FIAT",
+        "modelo": "PUNTO II",
+        "data": "07.99 > 2005",
+        "esp_segur_condu": "1277",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2277",
+        "esp_subst_passag": "3278"
+    },
+    {
+        "id": "99",
+        "marca_carro": "FIAT",
+        "modelo": "PUNTO III",
+        "data": "2005 >",
+        "esp_segur_condu": "1289",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2289",
+        "esp_subst_passag": "3290"
+    },
+    {
+        "id": "100",
+        "marca_carro": "FIAT",
+        "modelo": "SEDICI",
+        "data": "6.2006 >",
+        "esp_segur_condu": "1293",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2293",
+        "esp_subst_passag": "3294"
+    },
+    {
+        "id": "101",
+        "marca_carro": "FIAT",
+        "modelo": "SEICENTO",
+        "data": "1.1998 >",
+        "esp_segur_condu": "1267",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2267",
+        "esp_subst_passag": "3268"
+    },
+    {
+        "id": "102",
+        "marca_carro": "FIAT",
+        "modelo": "STILO",
+        "data": ">",
+        "esp_segur_condu": "1279",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2279",
+        "esp_subst_passag": "3280"
+    },
+    {
+        "id": "103",
+        "marca_carro": "FIAT",
+        "modelo": "TEMPRA",
+        "data": "3.1990 > 8.1997",
+        "esp_segur_condu": "1253",
+        "esp_segur_passag": "1253",
+        "esp_subst_condu": "2253",
+        "esp_subst_passag": "3254"
+    },
+    {
+        "id": "104",
+        "marca_carro": "FIAT",
+        "modelo": "TIPO",
+        "data": "7.1987 > 4.1995",
+        "esp_segur_condu": "1253",
+        "esp_segur_passag": "1253",
+        "esp_subst_condu": "2253",
+        "esp_subst_passag": "3254"
+    },
+    {
+        "id": "105",
+        "marca_carro": "FIAT",
+        "modelo": "ULYSSE",
+        "data": "1994 >",
+        "esp_segur_condu": "1049",
+        "esp_segur_passag": "1050",
+        "esp_subst_condu": "2049",
+        "esp_subst_passag": "3050"
+    },
+    {
+        "id": "106",
+        "marca_carro": "FIAT",
+        "modelo": "ULYSSE II",
+        "data": "2001 >",
+        "esp_segur_condu": "1025",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2025",
+        "esp_subst_passag": "3026"
+    },
+    {
+        "id": "107",
+        "marca_carro": "FIAT",
+        "modelo": "UNO Fixe",
+        "data": ">",
+        "esp_segur_condu": "1255",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2255",
+        "esp_subst_passag": "3256"
+    },
+    {
+        "id": "108",
+        "marca_carro": "FIAT",
+        "modelo": "UNO retro. regula?_o interior",
+        "data": ">",
+        "esp_segur_condu": "1251",
+        "esp_segur_passag": "1251",
+        "esp_subst_condu": "2251",
+        "esp_subst_passag": "3252"
+    },
+    {
+        "id": "109",
+        "marca_carro": "FIAT Utilit_rios",
+        "modelo": "SCUDO",
+        "data": "1995 >",
+        "esp_segur_condu": "1269",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2269",
+        "esp_subst_passag": "3270"
+    },
+    {
+        "id": "110",
+        "marca_carro": "FIAT Utilit_rios",
+        "modelo": "DUCATO",
+        "data": "2006 >",
+        "esp_segur_condu": "1143",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2143",
+        "esp_subst_passag": "3144"
+    },
+    {
+        "id": "111",
+        "marca_carro": "FORD",
+        "modelo": "COUGAR",
+        "data": ">",
+        "esp_segur_condu": "1249",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2249",
+        "esp_subst_passag": "3250"
+    },
+    {
+        "id": "112",
+        "marca_carro": "FORD",
+        "modelo": "ESCORT",
+        "data": "1990 >",
+        "esp_segur_condu": "1207",
+        "esp_segur_passag": "1207",
+        "esp_subst_condu": "2207",
+        "esp_subst_passag": "3208"
+    },
+    {
+        "id": "113",
+        "marca_carro": "FORD",
+        "modelo": "ESCORT",
+        "data": "1997 >",
+        "esp_segur_condu": "1249",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2249",
+        "esp_subst_passag": "3250"
+    },
+    {
+        "id": "114",
+        "marca_carro": "FORD",
+        "modelo": "FIESTA",
+        "data": "1989 > 1994",
+        "esp_segur_condu": "1207",
+        "esp_segur_passag": "1207",
+        "esp_subst_condu": "2207",
+        "esp_subst_passag": "3208"
+    },
+    {
+        "id": "115",
+        "marca_carro": "FORD",
+        "modelo": "FIESTA",
+        "data": "1994 > 1996",
+        "esp_segur_condu": "1245",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2245",
+        "esp_subst_passag": "3246"
+    },
+    {
+        "id": "116",
+        "marca_carro": "FORD",
+        "modelo": "FIESTA",
+        "data": "1996 > 2000",
+        "esp_segur_condu": "1249",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2249",
+        "esp_subst_passag": "3250"
+    },
+    {
+        "id": "117",
+        "marca_carro": "FORD",
+        "modelo": "FIESTA",
+        "data": "2001 > 2004",
+        "esp_segur_condu": "1205",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2205",
+        "esp_subst_passag": "3206"
+    },
+    {
+        "id": "118",
+        "marca_carro": "FORD",
+        "modelo": "FIESTA",
+        "data": "2005 >",
+        "esp_segur_condu": "1225",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2225",
+        "esp_subst_passag": "3226"
+    },
+    {
+        "id": "119",
+        "marca_carro": "FORD",
+        "modelo": "FOCUS",
+        "data": "Até a 2004",
+        "esp_segur_condu": "1221",
+        "esp_segur_passag": "1222",
+        "esp_subst_condu": "2221",
+        "esp_subst_passag": "3222"
+    },
+    {
+        "id": "120",
+        "marca_carro": "FORD",
+        "modelo": "FOCUS",
+        "data": "2005 >",
+        "esp_segur_condu": "1225",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2225",
+        "esp_subst_passag": "3226"
+    },
+    {
+        "id": "121",
+        "marca_carro": "FORD",
+        "modelo": "FOCUS C-MAX",
+        "data": ">",
+        "esp_segur_condu": "1225",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2225",
+        "esp_subst_passag": "3226"
+    },
+    {
+        "id": "122",
+        "marca_carro": "FORD",
+        "modelo": "FUSION",
+        "data": ">",
+        "esp_segur_condu": "1205",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2205",
+        "esp_subst_passag": "3206"
+    },
+    {
+        "id": "123",
+        "marca_carro": "FORD",
+        "modelo": "GALAXY",
+        "data": "1996 > 1998",
+        "esp_segur_condu": "1223",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2223",
+        "esp_subst_passag": "3224"
+    },
+    {
+        "id": "124",
+        "marca_carro": "FORD",
+        "modelo": "GALAXY",
+        "data": "1999 >",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3172"
+    },
+    {
+        "id": "125",
+        "marca_carro": "FORD",
+        "modelo": "GALAXY",
+        "data": "2006 >",
+        "esp_segur_condu": "1299",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2299",
+        "esp_subst_passag": "3300"
+    },
+    {
+        "id": "126",
+        "marca_carro": "FORD",
+        "modelo": "KA",
+        "data": "9.1996 > 11.2008",
+        "esp_segur_condu": "1219",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2219",
+        "esp_subst_passag": "3220"
+    },
+    {
+        "id": "127",
+        "marca_carro": "FORD",
+        "modelo": "KA",
+        "data": "2.2009 >",
+        "esp_segur_condu": "1291",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2291",
+        "esp_subst_passag": "3292"
+    },
+    {
+        "id": "128",
+        "marca_carro": "FORD",
+        "modelo": "MAVERICK",
+        "data": ">",
+        "esp_segur_condu": "1715",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2715",
+        "esp_subst_passag": "3716"
+    },
+    {
+        "id": "129",
+        "marca_carro": "FORD",
+        "modelo": "MONDEO",
+        "data": "Até a 1995",
+        "esp_segur_condu": "1217",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2217",
+        "esp_subst_passag": "3218"
+    },
+    {
+        "id": "130",
+        "marca_carro": "FORD",
+        "modelo": "MONDEO",
+        "data": "1996 >",
+        "esp_segur_condu": "1249",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2249",
+        "esp_subst_passag": "3250"
+    },
+    {
+        "id": "131",
+        "marca_carro": "FORD",
+        "modelo": "MONDEO",
+        "data": "2001 >",
+        "esp_segur_condu": "1243",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2243",
+        "esp_subst_passag": "3244"
+    },
+    {
+        "id": "132",
+        "marca_carro": "FORD",
+        "modelo": "MONDEO",
+        "data": "2004 > 2008",
+        "esp_segur_condu": "1225",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2225",
+        "esp_subst_passag": "3226"
+    },
+    {
+        "id": "133",
+        "marca_carro": "FORD",
+        "modelo": "MONDEO",
+        "data": "2008 >",
+        "esp_segur_condu": "1297",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2297",
+        "esp_subst_passag": "3298"
+    },
+    {
+        "id": "134",
+        "marca_carro": "FORD",
+        "modelo": "PUMA",
+        "data": ">",
+        "esp_segur_condu": "1249",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2249",
+        "esp_subst_passag": "3250"
+    },
+    {
+        "id": "135",
+        "marca_carro": "FORD",
+        "modelo": "SCORPIO",
+        "data": "1989 > 1995",
+        "esp_segur_condu": "1213",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2213",
+        "esp_subst_passag": "3214"
+    },
+    {
+        "id": "136",
+        "marca_carro": "FORD",
+        "modelo": "SCORPIO",
+        "data": "1996 >",
+        "esp_segur_condu": "1249",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2249",
+        "esp_subst_passag": "3250"
+    },
+    {
+        "id": "137",
+        "marca_carro": "FORD",
+        "modelo": "SIERRA",
+        "data": "1982 > 1993",
+        "esp_segur_condu": "1209",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2209",
+        "esp_subst_passag": "3210"
+    },
+    {
+        "id": "138",
+        "marca_carro": "FORD",
+        "modelo": "S-MAX",
+        "data": "2006 >",
+        "esp_segur_condu": "1299",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2299",
+        "esp_subst_passag": "3300"
+    },
+    {
+        "id": "139",
+        "marca_carro": "HONDA",
+        "modelo": "ACCORD",
+        "data": "1995 > 1998",
+        "esp_segur_condu": "1813",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2813",
+        "esp_subst_passag": "3814"
+    },
+    {
+        "id": "140",
+        "marca_carro": "HONDA",
+        "modelo": "ACCORD",
+        "data": "1998 >",
+        "esp_segur_condu": "1809",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2809",
+        "esp_subst_passag": "3810"
+    },
+    {
+        "id": "141",
+        "marca_carro": "HONDA",
+        "modelo": "CIVIC",
+        "data": "1992 > 1996",
+        "esp_segur_condu": "1801",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2801",
+        "esp_subst_passag": "3802"
+    },
+    {
+        "id": "142",
+        "marca_carro": "HONDA",
+        "modelo": "CIVIC",
+        "data": "1996 > 2001",
+        "esp_segur_condu": "1809",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2809",
+        "esp_subst_passag": "3810"
+    },
+    {
+        "id": "143",
+        "marca_carro": "HONDA",
+        "modelo": "CIVIC",
+        "data": "2001 > 2005",
+        "esp_segur_condu": "1813",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2813",
+        "esp_subst_passag": "3814"
+    },
+    {
+        "id": "144",
+        "marca_carro": "HONDA",
+        "modelo": "CIVIC",
+        "data": "9.2005 >",
+        "esp_segur_condu": "1825",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2825",
+        "esp_subst_passag": "3826"
+    },
+    {
+        "id": "145",
+        "marca_carro": "HONDA",
+        "modelo": "CONCERTO",
+        "data": "Até a 1992",
+        "esp_segur_condu": "1817",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2817",
+        "esp_subst_passag": "3818"
+    },
+    {
+        "id": "146",
+        "marca_carro": "HONDA",
+        "modelo": "CRV",
+        "data": "1997 > 2002",
+        "esp_segur_condu": "1819",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2819",
+        "esp_subst_passag": "3820"
+    },
+    {
+        "id": "147",
+        "marca_carro": "HONDA",
+        "modelo": "LOGO",
+        "data": "6.99 >",
+        "esp_segur_condu": "1811",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2811",
+        "esp_subst_passag": "3812"
+    },
+    {
+        "id": "148",
+        "marca_carro": "HONDA",
+        "modelo": "LOGO",
+        "data": "Até a 2002",
+        "esp_segur_condu": "1823",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2823",
+        "esp_subst_passag": "3824"
+    },
+    {
+        "id": "149",
+        "marca_carro": "HONDA",
+        "modelo": "PRELUDE",
+        "data": "1992 >",
+        "esp_segur_condu": "1807",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2807",
+        "esp_subst_passag": "3808"
+    },
+    {
+        "id": "150",
+        "marca_carro": "HYUNDAI",
+        "modelo": "ACCENT",
+        "data": "1999 >",
+        "esp_segur_condu": "1969",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2969",
+        "esp_subst_passag": "3970"
+    },
+    {
+        "id": "151",
+        "marca_carro": "HYUNDAI",
+        "modelo": "ATOS",
+        "data": "1998 >",
+        "esp_segur_condu": "1981",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2981",
+        "esp_subst_passag": "3982"
+    },
+    {
+        "id": "152",
+        "marca_carro": "HYUNDAI",
+        "modelo": "EXCEL",
+        "data": ">",
+        "esp_segur_condu": "1971",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2971",
+        "esp_subst_passag": "3972"
+    },
+    {
+        "id": "153",
+        "marca_carro": "HYUNDAI",
+        "modelo": "GETZ",
+        "data": "8.2002 >",
+        "esp_segur_condu": "1983",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2983",
+        "esp_subst_passag": "3984"
+    },
+    {
+        "id": "154",
+        "marca_carro": "HYUNDAI",
+        "modelo": "LANTRA",
+        "data": "1997 > 2000",
+        "esp_segur_condu": "1973",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2973",
+        "esp_subst_passag": "3974"
+    },
+    {
+        "id": "155",
+        "marca_carro": "HYUNDAI",
+        "modelo": "MATRIX",
+        "data": "6.2001 > 12.2005",
+        "esp_segur_condu": "1985",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2985",
+        "esp_subst_passag": "3986"
+    },
+    {
+        "id": "156",
+        "marca_carro": "HYUNDAI",
+        "modelo": "SANTA FE",
+        "data": "11.2000 > 3.2006",
+        "esp_segur_condu": "1987",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2987",
+        "esp_subst_passag": "3988"
+    },
+    {
+        "id": "157",
+        "marca_carro": "HYUNDAI",
+        "modelo": "S-COUPE",
+        "data": "Até a 1997",
+        "esp_segur_condu": "1977",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2977",
+        "esp_subst_passag": "3978"
+    },
+    {
+        "id": "158",
+        "marca_carro": "HYUNDAI",
+        "modelo": "SONATA MK3",
+        "data": "1996 >",
+        "esp_segur_condu": "1979",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2979",
+        "esp_subst_passag": "3980"
+    },
+    {
+        "id": "159",
+        "marca_carro": "KIA",
+        "modelo": "CARNIVAL",
+        "data": "1999 > 2003",
+        "esp_segur_condu": "1655",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2655",
+        "esp_subst_passag": "3656"
+    },
+    {
+        "id": "160",
+        "marca_carro": "KIA",
+        "modelo": "CARNIVAL",
+        "data": "2004 >",
+        "esp_segur_condu": "1659",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2659",
+        "esp_subst_passag": "3660"
+    },
+    {
+        "id": "161",
+        "marca_carro": "KIA",
+        "modelo": "PICANTO",
+        "data": "2004 > 2008",
+        "esp_segur_condu": "1663",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2663",
+        "esp_subst_passag": "3364"
+    },
+    {
+        "id": "162",
+        "marca_carro": "KIA",
+        "modelo": "PRIDE",
+        "data": ">",
+        "esp_segur_condu": "1653",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2653",
+        "esp_subst_passag": "3654"
+    },
+    {
+        "id": "163",
+        "marca_carro": "KIA",
+        "modelo": "RIO s_rie II",
+        "data": "3.2005 >",
+        "esp_segur_condu": "1649",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2649",
+        "esp_subst_passag": "3650"
+    },
+    {
+        "id": "164",
+        "marca_carro": "KIA",
+        "modelo": "SEPHIA",
+        "data": ">",
+        "esp_segur_condu": "1649",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2649",
+        "esp_subst_passag": "3650"
+    },
+    {
+        "id": "165",
+        "marca_carro": "KIA",
+        "modelo": "SHUMA",
+        "data": ">",
+        "esp_segur_condu": "1649",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2649",
+        "esp_subst_passag": "3650"
+    },
+    {
+        "id": "166",
+        "marca_carro": "KIA",
+        "modelo": "SORENTO",
+        "data": "2004 > 2009",
+        "esp_segur_condu": "1657",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2657",
+        "esp_subst_passag": "3658"
+    },
+    {
+        "id": "167",
+        "marca_carro": "KIA",
+        "modelo": "SPORTAGE",
+        "data": "1995 > 2003",
+        "esp_segur_condu": "1651",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2651",
+        "esp_subst_passag": "3652"
+    },
+    {
+        "id": "168",
+        "marca_carro": "LANCIA",
+        "modelo": "DEDRA",
+        "data": "1990 >",
+        "esp_segur_condu": "1405",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2405",
+        "esp_subst_passag": "3406"
+    },
+    {
+        "id": "169",
+        "marca_carro": "LANCIA",
+        "modelo": "DELTA",
+        "data": "Até a 1993",
+        "esp_segur_condu": "1401",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2401",
+        "esp_subst_passag": "3402"
+    },
+    {
+        "id": "170",
+        "marca_carro": "LANCIA",
+        "modelo": "DELTA",
+        "data": "1993 >",
+        "esp_segur_condu": "1409",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2409",
+        "esp_subst_passag": "3410"
+    },
+    {
+        "id": "171",
+        "marca_carro": "LANCIA",
+        "modelo": "KAPPA",
+        "data": "1995 > 2003",
+        "esp_segur_condu": "1449",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2449",
+        "esp_subst_passag": "3450"
+    },
+    {
+        "id": "172",
+        "marca_carro": "LANCIA",
+        "modelo": "LYBRA",
+        "data": "1999 >",
+        "esp_segur_condu": "1411",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2411",
+        "esp_subst_passag": "3412"
+    },
+    {
+        "id": "173",
+        "marca_carro": "LANCIA",
+        "modelo": "MUSA",
+        "data": "2010 >",
+        "esp_segur_condu": "1291",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2291",
+        "esp_subst_passag": "3292"
+    },
+    {
+        "id": "174",
+        "marca_carro": "LANCIA",
+        "modelo": "PHEDRA",
+        "data": "2002 >",
+        "esp_segur_condu": "1025",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2025",
+        "esp_subst_passag": "3026"
+    },
+    {
+        "id": "175",
+        "marca_carro": "LANCIA",
+        "modelo": "THEMA",
+        "data": "Até a 1989",
+        "esp_segur_condu": "1403",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2403",
+        "esp_subst_passag": "3404"
+    },
+    {
+        "id": "176",
+        "marca_carro": "LANCIA",
+        "modelo": "THEMA",
+        "data": "1990 >",
+        "esp_segur_condu": "1405",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2405",
+        "esp_subst_passag": "3406"
+    },
+    {
+        "id": "177",
+        "marca_carro": "LANCIA",
+        "modelo": "Y10",
+        "data": "Até a 1992",
+        "esp_segur_condu": "1261",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2261",
+        "esp_subst_passag": "3262"
+    },
+    {
+        "id": "178",
+        "marca_carro": "LANCIA",
+        "modelo": "Y10",
+        "data": "1993 >",
+        "esp_segur_condu": "1271",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2271",
+        "esp_subst_passag": "3272"
+    },
+    {
+        "id": "179",
+        "marca_carro": "LANCIA",
+        "modelo": "Y",
+        "data": "1995 >",
+        "esp_segur_condu": "1273",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2273",
+        "esp_subst_passag": "3274"
+    },
+    {
+        "id": "180",
+        "marca_carro": "LANCIA",
+        "modelo": "YPSILON",
+        "data": "2003 >",
+        "esp_segur_condu": "1287",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "41701",
+        "esp_subst_passag": "41702"
+    },
+    {
+        "id": "181",
+        "marca_carro": "LANCIA",
+        "modelo": "YPSILON",
+        "data": "2010 >",
+        "esp_segur_condu": "1233",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2233",
+        "esp_subst_passag": "3234"
+    },
+    {
+        "id": "182",
+        "marca_carro": "LANCIA",
+        "modelo": "ZETA",
+        "data": "Até a 2002",
+        "esp_segur_condu": "1049",
+        "esp_segur_passag": "1050",
+        "esp_subst_condu": "2049",
+        "esp_subst_passag": "3050"
+    },
+    {
+        "id": "183",
+        "marca_carro": "LAND ROVER",
+        "modelo": "FREELANDER",
+        "data": "1998 > 2006",
+        "esp_segur_condu": "1857",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "42429",
+        "esp_subst_passag": "42430"
+    },
+    {
+        "id": "184",
+        "marca_carro": "MAZDA",
+        "modelo": "121",
+        "data": "1988 > 1995",
+        "esp_segur_condu": "1905",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2905",
+        "esp_subst_passag": "3906"
+    },
+    {
+        "id": "185",
+        "marca_carro": "MAZDA",
+        "modelo": "121",
+        "data": "1996 > 2000",
+        "esp_segur_condu": "1907",
+        "esp_segur_passag": "1907",
+        "esp_subst_condu": "41619",
+        "esp_subst_passag": "41620"
+    },
+    {
+        "id": "186",
+        "marca_carro": "MAZDA",
+        "modelo": "2",
+        "data": "2003 > 2006",
+        "esp_segur_condu": "1993",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "43605",
+        "esp_subst_passag": "43606"
+    },
+    {
+        "id": "187",
+        "marca_carro": "MAZDA",
+        "modelo": "2",
+        "data": "2007 >",
+        "esp_segur_condu": "1991",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2991",
+        "esp_subst_passag": "3992"
+    },
+    {
+        "id": "188",
+        "marca_carro": "MAZDA",
+        "modelo": "3",
+        "data": "2003 > 2009",
+        "esp_segur_condu": "1993",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2993",
+        "esp_subst_passag": "3994"
+    },
+    {
+        "id": "189",
+        "marca_carro": "MAZDA",
+        "modelo": "323",
+        "data": "1990 > 1994",
+        "esp_segur_condu": "1901",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2901",
+        "esp_subst_passag": "3902"
+    },
+    {
+        "id": "190",
+        "marca_carro": "MAZDA",
+        "modelo": "6",
+        "data": "2002 > 2008",
+        "esp_segur_condu": "1993",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2993",
+        "esp_subst_passag": "3994"
+    },
+    {
+        "id": "191",
+        "marca_carro": "MAZDA",
+        "modelo": "626",
+        "data": "1992 >",
+        "esp_segur_condu": "1903",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2903",
+        "esp_subst_passag": "3904"
+    },
+    {
+        "id": "192",
+        "marca_carro": "MAZDA",
+        "modelo": "DEMIO",
+        "data": ">",
+        "esp_segur_condu": "1909",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "43605",
+        "esp_subst_passag": "43606"
+    },
+    {
+        "id": "193",
+        "marca_carro": "MAZDA",
+        "modelo": "MX5",
+        "data": "2001 >",
+        "esp_segur_condu": "1915",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2915",
+        "esp_subst_passag": "3916"
+    },
+    {
+        "id": "194",
+        "marca_carro": "MAZDA",
+        "modelo": "PREMACY",
+        "data": ">",
+        "esp_segur_condu": "1911",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "43607",
+        "esp_subst_passag": "43608"
+    },
+    {
+        "id": "195",
+        "marca_carro": "MERCEDES",
+        "modelo": "CLASSE A",
+        "data": "Até a 2004",
+        "esp_segur_condu": "1511",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2511",
+        "esp_subst_passag": "3512"
+    },
+    {
+        "id": "196",
+        "marca_carro": "MERCEDES",
+        "modelo": "CLASSE A s_rie 2",
+        "data": "2005 >",
+        "esp_segur_condu": "1517",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2517",
+        "esp_subst_passag": "3518"
+    },
+    {
+        "id": "197",
+        "marca_carro": "MERCEDES",
+        "modelo": "CLASSE B",
+        "data": "2005 >",
+        "esp_segur_condu": "1517",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2517",
+        "esp_subst_passag": "3518"
+    },
+    {
+        "id": "198",
+        "marca_carro": "MERCEDES",
+        "modelo": "190 (type W201)",
+        "data": "1985 > 8.1993",
+        "esp_segur_condu": "1503",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2503",
+        "esp_subst_passag": "3504"
+    },
+    {
+        "id": "199",
+        "marca_carro": "MERCEDES",
+        "modelo": "200-300-500 (type W124)",
+        "data": "1987 > 6.1995",
+        "esp_segur_condu": "1503",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2503",
+        "esp_subst_passag": "3504"
+    },
+    {
+        "id": "200",
+        "marca_carro": "MERCEDES",
+        "modelo": "CLASSE C",
+        "data": "3.1993 >",
+        "esp_segur_condu": "1509",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2509",
+        "esp_subst_passag": "3510"
+    },
+    {
+        "id": "201",
+        "marca_carro": "MERCEDES",
+        "modelo": "CLASSE C",
+        "data": "2000 >",
+        "esp_segur_condu": "1515",
+        "esp_segur_passag": "1516",
+        "esp_subst_condu": "2515",
+        "esp_subst_passag": "3516"
+    },
+    {
+        "id": "202",
+        "marca_carro": "MERCEDES",
+        "modelo": "CLASSE C",
+        "data": "2009 >",
+        "esp_segur_condu": "1521",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2521",
+        "esp_subst_passag": "3522"
+    },
+    {
+        "id": "203",
+        "marca_carro": "MERCEDES",
+        "modelo": "CLASSE E",
+        "data": "1996 >",
+        "esp_segur_condu": "1509",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2509",
+        "esp_subst_passag": "3510"
+    },
+    {
+        "id": "204",
+        "marca_carro": "MERCEDES",
+        "modelo": "VITO",
+        "data": "1996 > 2003",
+        "esp_segur_condu": "1513",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2513",
+        "esp_subst_passag": "3514"
+    },
+    {
+        "id": "205",
+        "marca_carro": "MERCEDES",
+        "modelo": "VITO",
+        "data": "2005 >",
+        "esp_segur_condu": "1519",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2519",
+        "esp_subst_passag": "3520"
+    },
+    {
+        "id": "206",
+        "marca_carro": "MINI",
+        "modelo": "ONE",
+        "data": "6.2001 >",
+        "esp_segur_condu": "1375",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2375",
+        "esp_subst_passag": "3376"
+    },
+    {
+        "id": "207",
+        "marca_carro": "MINI",
+        "modelo": "COOPER",
+        "data": "6.2001 >",
+        "esp_segur_condu": "1375",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2375",
+        "esp_subst_passag": "3376"
+    },
+    {
+        "id": "208",
+        "marca_carro": "MITSUBISHI",
+        "modelo": "CARISMA",
+        "data": "1999 > 2003",
+        "esp_segur_condu": "1751",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2751",
+        "esp_subst_passag": "3752"
+    },
+    {
+        "id": "209",
+        "marca_carro": "MITSUBISHI",
+        "modelo": "COLT",
+        "data": "1997 >",
+        "esp_segur_condu": "1753",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2753",
+        "esp_subst_passag": "3754"
+    },
+    {
+        "id": "210",
+        "marca_carro": "MITSUBISHI",
+        "modelo": "GALANT",
+        "data": ">",
+        "esp_segur_condu": "",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2755",
+        "esp_subst_passag": "3756"
+    },
+    {
+        "id": "211",
+        "marca_carro": "MITSUBISHI",
+        "modelo": "LANCER",
+        "data": "1992 > 1996",
+        "esp_segur_condu": "1757",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2757",
+        "esp_subst_passag": "3758"
+    },
+    {
+        "id": "212",
+        "marca_carro": "MITSUBISHI",
+        "modelo": "PAJERO",
+        "data": "1998 >",
+        "esp_segur_condu": "1759",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2759",
+        "esp_subst_passag": "3760"
+    },
+    {
+        "id": "213",
+        "marca_carro": "MITSUBISHI",
+        "modelo": "SPACE STAR",
+        "data": "1998 >",
+        "esp_segur_condu": "1761",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2761",
+        "esp_subst_passag": "3762"
+    },
+    {
+        "id": "214",
+        "marca_carro": "NISSAN",
+        "modelo": "ALMERA",
+        "data": "1996 > 1999",
+        "esp_segur_condu": "1711",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2711",
+        "esp_subst_passag": "3712"
+    },
+    {
+        "id": "215",
+        "marca_carro": "NISSAN",
+        "modelo": "ALMERA",
+        "data": "2000 >",
+        "esp_segur_condu": "1725",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2725",
+        "esp_subst_passag": "3726"
+    },
+    {
+        "id": "216",
+        "marca_carro": "NISSAN",
+        "modelo": "CHERRY",
+        "data": "Até a 1992",
+        "esp_segur_condu": "1713",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2713",
+        "esp_subst_passag": "3714"
+    },
+    {
+        "id": "217",
+        "marca_carro": "NISSAN",
+        "modelo": "CHERRY",
+        "data": "1992 >",
+        "esp_segur_condu": "1709",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2709",
+        "esp_subst_passag": "3710"
+    },
+    {
+        "id": "218",
+        "marca_carro": "NISSAN",
+        "modelo": "MICRA",
+        "data": "1992 >",
+        "esp_segur_condu": "1701",
+        "esp_segur_passag": "1702",
+        "esp_subst_condu": "2701",
+        "esp_subst_passag": "3702"
+    },
+    {
+        "id": "219",
+        "marca_carro": "NISSAN",
+        "modelo": "MICRA K12",
+        "data": "10.2002 >",
+        "esp_segur_condu": "1087",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2087",
+        "esp_subst_passag": "3088"
+    },
+    {
+        "id": "220",
+        "marca_carro": "NISSAN",
+        "modelo": "PATROL",
+        "data": "1995 > 2000",
+        "esp_segur_condu": "1717",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "3715",
+        "esp_subst_passag": "3718"
+    },
+    {
+        "id": "221",
+        "marca_carro": "NISSAN",
+        "modelo": "PATROL",
+        "data": "2000 >",
+        "esp_segur_condu": "1721",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2721",
+        "esp_subst_passag": "3722"
+    },
+    {
+        "id": "222",
+        "marca_carro": "NISSAN",
+        "modelo": "PRIMERA",
+        "data": "Até a 1996",
+        "esp_segur_condu": "1703",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2703",
+        "esp_subst_passag": "3704"
+    },
+    {
+        "id": "223",
+        "marca_carro": "NISSAN",
+        "modelo": "PRIMERA",
+        "data": "1996 > 2002",
+        "esp_segur_condu": "1705",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2705",
+        "esp_subst_passag": "3706"
+    },
+    {
+        "id": "224",
+        "marca_carro": "NISSAN",
+        "modelo": "PRIMERA",
+        "data": "2003 >",
+        "esp_segur_condu": "1723",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "41901",
+        "esp_subst_passag": "3724"
+    },
+    {
+        "id": "225",
+        "marca_carro": "NISSAN",
+        "modelo": "QASHQAI",
+        "data": "2007 >",
+        "esp_segur_condu": "1727",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2727",
+        "esp_subst_passag": "3728"
+    },
+    {
+        "id": "226",
+        "marca_carro": "NISSAN",
+        "modelo": "SERENA",
+        "data": "1995 >",
+        "esp_segur_condu": "1707",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "3707",
+        "esp_subst_passag": "3708"
+    },
+    {
+        "id": "227",
+        "marca_carro": "NISSAN",
+        "modelo": "SUNNY",
+        "data": ">",
+        "esp_segur_condu": "1709",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2709",
+        "esp_subst_passag": "3710"
+    },
+    {
+        "id": "228",
+        "marca_carro": "NISSAN",
+        "modelo": "SUNNY",
+        "data": ">",
+        "esp_segur_condu": "1713",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2713",
+        "esp_subst_passag": "3714"
+    },
+    {
+        "id": "229",
+        "marca_carro": "NISSAN",
+        "modelo": "TERRANO",
+        "data": "1993 >",
+        "esp_segur_condu": "",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "3715",
+        "esp_subst_passag": "3716"
+    },
+    {
+        "id": "230",
+        "marca_carro": "NISSAN",
+        "modelo": "VANETTE",
+        "data": "1995 >",
+        "esp_segur_condu": "1719",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2719",
+        "esp_subst_passag": "3720"
+    },
+    {
+        "id": "231",
+        "marca_carro": "OPEL",
+        "modelo": "AGILA",
+        "data": "9.2000 >",
+        "esp_segur_condu": "1333",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "42105",
+        "esp_subst_passag": "3334"
+    },
+    {
+        "id": "232",
+        "marca_carro": "OPEL",
+        "modelo": "ASTRA",
+        "data": "1984 > 1994",
+        "esp_segur_condu": "1311",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2311",
+        "esp_subst_passag": "3312"
+    },
+    {
+        "id": "233",
+        "marca_carro": "OPEL",
+        "modelo": "ASTRA F",
+        "data": "1995 > 4.1998",
+        "esp_segur_condu": "1305",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2305",
+        "esp_subst_passag": "3306"
+    },
+    {
+        "id": "234",
+        "marca_carro": "OPEL",
+        "modelo": "ASTRA H",
+        "data": "2004 >",
+        "esp_segur_condu": "1337",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2337",
+        "esp_subst_passag": "3338"
+    },
+    {
+        "id": "235",
+        "marca_carro": "OPEL",
+        "modelo": "CALIBRA",
+        "data": "Até a 1998",
+        "esp_segur_condu": "1305",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2305",
+        "esp_subst_passag": "3306"
+    },
+    {
+        "id": "236",
+        "marca_carro": "OPEL",
+        "modelo": "CORSA",
+        "data": "1993 >",
+        "esp_segur_condu": "1315",
+        "esp_segur_passag": "1316",
+        "esp_subst_condu": "2315",
+        "esp_subst_passag": "3316"
+    },
+    {
+        "id": "237",
+        "marca_carro": "OPEL",
+        "modelo": "CORSA",
+        "data": "2000 >",
+        "esp_segur_condu": "1331",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2331",
+        "esp_subst_passag": "3332"
+    },
+    {
+        "id": "238",
+        "marca_carro": "OPEL",
+        "modelo": "FRONTERA",
+        "data": "1992 >",
+        "esp_segur_condu": "1329",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2329",
+        "esp_subst_passag": "3330"
+    },
+    {
+        "id": "239",
+        "marca_carro": "OPEL",
+        "modelo": "MERIVA",
+        "data": "5.2003 > 5.2010",
+        "esp_segur_condu": "1335",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2335",
+        "esp_subst_passag": "3336"
+    },
+    {
+        "id": "240",
+        "marca_carro": "OPEL",
+        "modelo": "OMEGA",
+        "data": "Até a 1993",
+        "esp_segur_condu": "1307",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2307",
+        "esp_subst_passag": "3308"
+    },
+    {
+        "id": "241",
+        "marca_carro": "OPEL",
+        "modelo": "OMEGA",
+        "data": "1994 >",
+        "esp_segur_condu": "1317",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2317",
+        "esp_subst_passag": "3318"
+    },
+    {
+        "id": "242",
+        "marca_carro": "OPEL",
+        "modelo": "SIGNUM",
+        "data": "05.2003 >",
+        "esp_segur_condu": "1343",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2343",
+        "esp_subst_passag": "3344"
+    },
+    {
+        "id": "243",
+        "marca_carro": "OPEL",
+        "modelo": "TIGRA",
+        "data": "2005 >",
+        "esp_segur_condu": "1331",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2331",
+        "esp_subst_passag": "3332"
+    },
+    {
+        "id": "244",
+        "marca_carro": "OPEL",
+        "modelo": "VECTRA B",
+        "data": "11.1995 >",
+        "esp_segur_condu": "1321",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2321",
+        "esp_subst_passag": "3322"
+    },
+    {
+        "id": "245",
+        "marca_carro": "OPEL",
+        "modelo": "ZAFIRA",
+        "data": "1999 > 2005",
+        "esp_segur_condu": "1327",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2327",
+        "esp_subst_passag": "3328"
+    },
+    {
+        "id": "246",
+        "marca_carro": "PEUGEOT",
+        "modelo": "106 retro. regula?_o exterior",
+        "data": ">",
+        "esp_segur_condu": "1015",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2015",
+        "esp_subst_passag": "3016"
+    },
+    {
+        "id": "247",
+        "marca_carro": "PEUGEOT",
+        "modelo": "106 retro. regula?_o interior",
+        "data": ">",
+        "esp_segur_condu": "1013",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2013",
+        "esp_subst_passag": "3014"
+    },
+    {
+        "id": "248",
+        "marca_carro": "PEUGEOT",
+        "modelo": "1007",
+        "data": ">",
+        "esp_segur_condu": "1133",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2133",
+        "esp_subst_passag": "3134"
+    },
+    {
+        "id": "249",
+        "marca_carro": "PEUGEOT",
+        "modelo": "206",
+        "data": ">",
+        "esp_segur_condu": "1021",
+        "esp_segur_passag": "1022",
+        "esp_subst_condu": "2021",
+        "esp_subst_passag": "3022"
+    },
+    {
+        "id": "250",
+        "marca_carro": "PEUGEOT",
+        "modelo": "207",
+        "data": ">",
+        "esp_segur_condu": "1027",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2027",
+        "esp_subst_passag": "3028"
+    },
+    {
+        "id": "251",
+        "marca_carro": "PEUGEOT",
+        "modelo": "306 retro. regula?_o interior",
+        "data": ">",
+        "esp_segur_condu": "1017",
+        "esp_segur_passag": "1018",
+        "esp_subst_condu": "2017",
+        "esp_subst_passag": "3018"
+    },
+    {
+        "id": "252",
+        "marca_carro": "PEUGEOT",
+        "modelo": "307",
+        "data": ">",
+        "esp_segur_condu": "1023",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2023",
+        "esp_subst_passag": "3024"
+    },
+    {
+        "id": "253",
+        "marca_carro": "PEUGEOT",
+        "modelo": "309 retro. regula?_o interior",
+        "data": "Até a 1990",
+        "esp_segur_condu": "1003",
+        "esp_segur_passag": "1003",
+        "esp_subst_condu": "2003",
+        "esp_subst_passag": "3004"
+    },
+    {
+        "id": "254",
+        "marca_carro": "PEUGEOT",
+        "modelo": "309",
+        "data": "1990 >",
+        "esp_segur_condu": "",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2109",
+        "esp_subst_passag": "3110"
+    },
+    {
+        "id": "255",
+        "marca_carro": "PEUGEOT",
+        "modelo": "405 retro. regula?_o exterior",
+        "data": "Até a 1990",
+        "esp_segur_condu": "1003",
+        "esp_segur_passag": "1003",
+        "esp_subst_condu": "2003",
+        "esp_subst_passag": "3004"
+    },
+    {
+        "id": "256",
+        "marca_carro": "PEUGEOT",
+        "modelo": "405 retro. regula?_o interior",
+        "data": "1990 >",
+        "esp_segur_condu": "1109",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2109",
+        "esp_subst_passag": "3110"
+    },
+    {
+        "id": "257",
+        "marca_carro": "PEUGEOT",
+        "modelo": "406",
+        "data": ">",
+        "esp_segur_condu": "1019",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2019",
+        "esp_subst_passag": "3020"
+    },
+    {
+        "id": "258",
+        "marca_carro": "PEUGEOT",
+        "modelo": "407",
+        "data": ">",
+        "esp_segur_condu": "1141",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2141",
+        "esp_subst_passag": "3142"
+    },
+    {
+        "id": "259",
+        "marca_carro": "PEUGEOT",
+        "modelo": "505",
+        "data": "7.1986 > 12.1993",
+        "esp_segur_condu": "1003",
+        "esp_segur_passag": "1003",
+        "esp_subst_condu": "2003",
+        "esp_subst_passag": "3004"
+    },
+    {
+        "id": "260",
+        "marca_carro": "PEUGEOT",
+        "modelo": "806",
+        "data": ">",
+        "esp_segur_condu": "1049",
+        "esp_segur_passag": "1050",
+        "esp_subst_condu": "2049",
+        "esp_subst_passag": "3050"
+    },
+    {
+        "id": "261",
+        "marca_carro": "PEUGEOT",
+        "modelo": "807",
+        "data": ">",
+        "esp_segur_condu": "1025",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2025",
+        "esp_subst_passag": "3026"
+    },
+    {
+        "id": "262",
+        "marca_carro": "PEUGEOT Utilit_rios",
+        "modelo": "BOXER",
+        "data": "2006 >",
+        "esp_segur_condu": "1143",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2143",
+        "esp_subst_passag": "3144"
+    },
+    {
+        "id": "263",
+        "marca_carro": "PEUGEOT Utilit_rios",
+        "modelo": "EXPERT",
+        "data": ">",
+        "esp_segur_condu": "1269",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "3269",
+        "esp_subst_passag": "3270"
+    },
+    {
+        "id": "264",
+        "marca_carro": "PEUGEOT Utilit_rios",
+        "modelo": "PARTNER",
+        "data": ">",
+        "esp_segur_condu": "1127",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "3127",
+        "esp_subst_passag": "3128"
+    },
+    {
+        "id": "265",
+        "marca_carro": "RENAULT",
+        "modelo": "SUPER 5 retro. regula?_o exterior",
+        "data": "1985 >",
+        "esp_segur_condu": "",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2081",
+        "esp_subst_passag": "3082"
+    },
+    {
+        "id": "266",
+        "marca_carro": "RENAULT",
+        "modelo": "SUPER 5 retro. regula?_o interior",
+        "data": "1985 >",
+        "esp_segur_condu": "",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2065",
+        "esp_subst_passag": ""
+    },
+    {
+        "id": "267",
+        "marca_carro": "RENAULT",
+        "modelo": "R9 - R11",
+        "data": ">",
+        "esp_segur_condu": "",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2053",
+        "esp_subst_passag": ""
+    },
+    {
+        "id": "268",
+        "marca_carro": "RENAULT",
+        "modelo": "R19 e CHAMADE",
+        "data": ">",
+        "esp_segur_condu": "1055",
+        "esp_segur_passag": "1056",
+        "esp_subst_condu": "2055",
+        "esp_subst_passag": "3056"
+    },
+    {
+        "id": "269",
+        "marca_carro": "RENAULT",
+        "modelo": "R21 e NEVADA",
+        "data": "Até a 8.1994",
+        "esp_segur_condu": "1057",
+        "esp_segur_passag": "1058",
+        "esp_subst_condu": "2057",
+        "esp_subst_passag": "3058"
+    },
+    {
+        "id": "270",
+        "marca_carro": "RENAULT",
+        "modelo": "R25",
+        "data": "4.1984 > 12.1993",
+        "esp_segur_condu": "1059",
+        "esp_segur_passag": "1060",
+        "esp_subst_condu": "2059",
+        "esp_subst_passag": "3060"
+    },
+    {
+        "id": "271",
+        "marca_carro": "RENAULT",
+        "modelo": "CLIO",
+        "data": "Até a 3.1994",
+        "esp_segur_condu": "1061",
+        "esp_segur_passag": "1062",
+        "esp_subst_condu": "2061",
+        "esp_subst_passag": "3062"
+    },
+    {
+        "id": "272",
+        "marca_carro": "RENAULT",
+        "modelo": "CLIO",
+        "data": "4.1994 > 3.1996",
+        "esp_segur_condu": "1177",
+        "esp_segur_passag": "1177",
+        "esp_subst_condu": "2177",
+        "esp_subst_passag": "3178"
+    },
+    {
+        "id": "273",
+        "marca_carro": "RENAULT",
+        "modelo": "CLIO",
+        "data": "4.1996 > 2.1998",
+        "esp_segur_condu": "1177",
+        "esp_segur_passag": "1177",
+        "esp_subst_condu": "2177",
+        "esp_subst_passag": "3178"
+    },
+    {
+        "id": "274",
+        "marca_carro": "RENAULT",
+        "modelo": "CLIO II",
+        "data": "3.1998 >",
+        "esp_segur_condu": "1087",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2087",
+        "esp_subst_passag": "3088"
+    },
+    {
+        "id": "275",
+        "marca_carro": "RENAULT",
+        "modelo": "CLIO III",
+        "data": "5.2005 >",
+        "esp_segur_condu": "1197",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2197",
+        "esp_subst_passag": "3198"
+    },
+    {
+        "id": "276",
+        "marca_carro": "RENAULT",
+        "modelo": "ESPACE",
+        "data": "Até a 3.1991",
+        "esp_segur_condu": "",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2053",
+        "esp_subst_passag": "3054"
+    },
+    {
+        "id": "277",
+        "marca_carro": "RENAULT",
+        "modelo": "ESPACE",
+        "data": "4.1991 > 10.1996",
+        "esp_segur_condu": "1067",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2067",
+        "esp_subst_passag": "3068"
+    },
+    {
+        "id": "278",
+        "marca_carro": "RENAULT",
+        "modelo": "ESPACE",
+        "data": "11.1996 >",
+        "esp_segur_condu": "1077",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2077",
+        "esp_subst_passag": "3078"
+    },
+    {
+        "id": "279",
+        "marca_carro": "RENAULT",
+        "modelo": "KANGOO",
+        "data": "Até a 2000",
+        "esp_segur_condu": "1079",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2079",
+        "esp_subst_passag": "3080"
+    },
+    {
+        "id": "280",
+        "marca_carro": "RENAULT",
+        "modelo": "KANGOO",
+        "data": "2001 > 2007",
+        "esp_segur_condu": "1093",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2093",
+        "esp_subst_passag": "3094"
+    },
+    {
+        "id": "281",
+        "marca_carro": "RENAULT",
+        "modelo": "KANGOO",
+        "data": "2008 >",
+        "esp_segur_condu": "1029",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2029",
+        "esp_subst_passag": "3030"
+    },
+    {
+        "id": "282",
+        "marca_carro": "RENAULT",
+        "modelo": "LAGUNA",
+        "data": "11.1993 > 3.2001",
+        "esp_segur_condu": "1073",
+        "esp_segur_passag": "1074",
+        "esp_subst_condu": "2073",
+        "esp_subst_passag": "3074"
+    },
+    {
+        "id": "283",
+        "marca_carro": "RENAULT",
+        "modelo": "LAGUNA II",
+        "data": "3.2001 >",
+        "esp_segur_condu": "1089",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2089",
+        "esp_subst_passag": "3090"
+    },
+    {
+        "id": "284",
+        "marca_carro": "RENAULT",
+        "modelo": "LAGUNA III",
+        "data": "10.2007 >",
+        "esp_segur_condu": "1033",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2033",
+        "esp_subst_passag": "3034"
+    },
+    {
+        "id": "285",
+        "marca_carro": "RENAULT",
+        "modelo": "MEGANE",
+        "data": "1994 >",
+        "esp_segur_condu": "1177",
+        "esp_segur_passag": "1177",
+        "esp_subst_condu": "2177",
+        "esp_subst_passag": "3178"
+    },
+    {
+        "id": "286",
+        "marca_carro": "RENAULT",
+        "modelo": "MEGANE II",
+        "data": "2002 >",
+        "esp_segur_condu": "1091",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2091",
+        "esp_subst_passag": "3092"
+    },
+    {
+        "id": "287",
+        "marca_carro": "RENAULT",
+        "modelo": "MEGANE III",
+        "data": "11.2008 >",
+        "esp_segur_condu": "1033",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2033",
+        "esp_subst_passag": "3034"
+    },
+    {
+        "id": "288",
+        "marca_carro": "RENAULT",
+        "modelo": "MEGANE SCENIC",
+        "data": "1.1997 > 10.1999",
+        "esp_segur_condu": "1177",
+        "esp_segur_passag": "1177",
+        "esp_subst_condu": "2177",
+        "esp_subst_passag": "3178"
+    },
+    {
+        "id": "289",
+        "marca_carro": "RENAULT",
+        "modelo": "MODUS",
+        "data": "2004 >",
+        "esp_segur_condu": "1091",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2091",
+        "esp_subst_passag": "3092"
+    },
+    {
+        "id": "290",
+        "marca_carro": "RENAULT",
+        "modelo": "SAFRANE",
+        "data": ">",
+        "esp_segur_condu": "1069",
+        "esp_segur_passag": "1070",
+        "esp_subst_condu": "2069",
+        "esp_subst_passag": "3070"
+    },
+    {
+        "id": "291",
+        "marca_carro": "RENAULT",
+        "modelo": "SCENIC",
+        "data": "1998 > 2002",
+        "esp_segur_condu": "1087",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2087",
+        "esp_subst_passag": "3088"
+    },
+    {
+        "id": "292",
+        "marca_carro": "RENAULT",
+        "modelo": "SCENIC RX-4",
+        "data": "11.2000 > 8.2003",
+        "esp_segur_condu": "1093",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2093",
+        "esp_subst_passag": "3094"
+    },
+    {
+        "id": "293",
+        "marca_carro": "RENAULT",
+        "modelo": "SCENIC",
+        "data": "2003 > 2008",
+        "esp_segur_condu": "1091",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2091",
+        "esp_subst_passag": "3092"
+    },
+    {
+        "id": "294",
+        "marca_carro": "RENAULT",
+        "modelo": "SCENIC",
+        "data": "2.2009 >",
+        "esp_segur_condu": "1031",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2031",
+        "esp_subst_passag": "3032"
+    },
+    {
+        "id": "295",
+        "marca_carro": "RENAULT",
+        "modelo": "TWINGO retro. regula?_o exterior",
+        "data": "1993 >",
+        "esp_segur_condu": "1071",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2071",
+        "esp_subst_passag": "3072"
+    },
+    {
+        "id": "296",
+        "marca_carro": "RENAULT",
+        "modelo": "TWINGO retro. regula?_o interior",
+        "data": "1993 >",
+        "esp_segur_condu": "1075",
+        "esp_segur_passag": "1076",
+        "esp_subst_condu": "2075",
+        "esp_subst_passag": "3076"
+    },
+    {
+        "id": "297",
+        "marca_carro": "RENAULT",
+        "modelo": "TWINGO Phase 2",
+        "data": "1998 >",
+        "esp_segur_condu": "1075",
+        "esp_segur_passag": "1076",
+        "esp_subst_condu": "2075",
+        "esp_subst_passag": "3076"
+    },
+    {
+        "id": "298",
+        "marca_carro": "RENAULT",
+        "modelo": "TWINGO II",
+        "data": "6.2007 >",
+        "esp_segur_condu": "1097",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2097",
+        "esp_subst_passag": "3098"
+    },
+    {
+        "id": "299",
+        "marca_carro": "RENAULT",
+        "modelo": "VEL SATIS",
+        "data": "2002 >",
+        "esp_segur_condu": "1089",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2089",
+        "esp_subst_passag": "3090"
+    },
+    {
+        "id": "300",
+        "marca_carro": "RENAULT",
+        "modelo": "EXPRESS",
+        "data": "1996 > 2001",
+        "esp_segur_condu": "1079",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2079",
+        "esp_subst_passag": "3080"
+    },
+    {
+        "id": "301",
+        "marca_carro": "RENAULT Utilit_rios",
+        "modelo": "MASTER",
+        "data": "2003 >",
+        "esp_segur_condu": "1095",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2095",
+        "esp_subst_passag": "3096"
+    },
+    {
+        "id": "302",
+        "marca_carro": "RENAULT Utilit_rios",
+        "modelo": "TRAFIC",
+        "data": "2002 >",
+        "esp_segur_condu": "1095",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2095",
+        "esp_subst_passag": "3096"
+    },
+    {
+        "id": "303",
+        "marca_carro": "ROVER",
+        "modelo": "SERIE 25 - 45",
+        "data": "2000 >",
+        "esp_segur_condu": "1859",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2859",
+        "esp_subst_passag": "3860"
+    },
+    {
+        "id": "304",
+        "marca_carro": "ROVER",
+        "modelo": "SERIE 75",
+        "data": "1999 >",
+        "esp_segur_condu": "1847",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2847",
+        "esp_subst_passag": "3848"
+    },
+    {
+        "id": "305",
+        "marca_carro": "ROVER",
+        "modelo": "SERIE 200-400",
+        "data": "1990 > 1996",
+        "esp_segur_condu": "1849",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2849",
+        "esp_subst_passag": "3850"
+    },
+    {
+        "id": "306",
+        "marca_carro": "ROVER",
+        "modelo": "SERIE 200",
+        "data": "1996 >",
+        "esp_segur_condu": "1851",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2851",
+        "esp_subst_passag": "3852"
+    },
+    {
+        "id": "307",
+        "marca_carro": "ROVER",
+        "modelo": "SERIE 400",
+        "data": "1996 >",
+        "esp_segur_condu": "1853",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2853",
+        "esp_subst_passag": "3854"
+    },
+    {
+        "id": "308",
+        "marca_carro": "ROVER",
+        "modelo": "SERIE 600",
+        "data": "1994 > 2000",
+        "esp_segur_condu": "1855",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2855",
+        "esp_subst_passag": "3856"
+    },
+    {
+        "id": "309",
+        "marca_carro": "SAAB",
+        "modelo": "9.3 - 9.5",
+        "data": ">",
+        "esp_segur_condu": "1951",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2951",
+        "esp_subst_passag": "3952"
+    },
+    {
+        "id": "310",
+        "marca_carro": "SAAB",
+        "modelo": "900",
+        "data": ">",
+        "esp_segur_condu": "1951",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "42511",
+        "esp_subst_passag": "42512"
+    },
+    {
+        "id": "311",
+        "marca_carro": "SAAB",
+        "modelo": "9000",
+        "data": "Até a 1996",
+        "esp_segur_condu": "1949",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "42513",
+        "esp_subst_passag": "42514"
+    },
+    {
+        "id": "312",
+        "marca_carro": "SEAT",
+        "modelo": "ALHAMBRA",
+        "data": "3.96 > 1999",
+        "esp_segur_condu": "1223",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2223",
+        "esp_subst_passag": "3224"
+    },
+    {
+        "id": "313",
+        "marca_carro": "SEAT",
+        "modelo": "ALHAMBRA",
+        "data": "1999 >",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3172"
+    },
+    {
+        "id": "314",
+        "marca_carro": "SEAT",
+        "modelo": "AROSA",
+        "data": "Até a 1998",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3170"
+    },
+    {
+        "id": "315",
+        "marca_carro": "SEAT",
+        "modelo": "AROSA",
+        "data": "1997 > 2000",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3170"
+    },
+    {
+        "id": "316",
+        "marca_carro": "SEAT",
+        "modelo": "AROSA",
+        "data": "1999 > 2001",
+        "esp_segur_condu": "1171",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2171",
+        "esp_subst_passag": "3170"
+    },
+    {
+        "id": "317",
+        "marca_carro": "SEAT",
+        "modelo": "AROSA",
+        "data": "2001 >",
+        "esp_segur_condu": "1175",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2175",
+        "esp_subst_passag": "3176"
+    },
+    {
+        "id": "318",
+        "marca_carro": "SEAT",
+        "modelo": "CORDOBA",
+        "data": "1993 >",
+        "esp_segur_condu": "1609",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2609",
+        "esp_subst_passag": "3610"
+    },
+    {
+        "id": "319",
+        "marca_carro": "SEAT",
+        "modelo": "IBIZA",
+        "data": "1991 > 1992",
+        "esp_segur_condu": "1603",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2603",
+        "esp_subst_passag": "3604"
+    },
+    {
+        "id": "320",
+        "marca_carro": "SEAT",
+        "modelo": "IBIZA",
+        "data": "1993 > 2001",
+        "esp_segur_condu": "1609",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2609",
+        "esp_subst_passag": "3610"
+    },
+    {
+        "id": "321",
+        "marca_carro": "SEAT",
+        "modelo": "IBIZA",
+        "data": "2002 >",
+        "esp_segur_condu": "1607",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2607",
+        "esp_subst_passag": "3608"
+    },
+    {
+        "id": "322",
+        "marca_carro": "SEAT",
+        "modelo": "IBIZA",
+        "data": "2008 >",
+        "esp_segur_condu": "1613",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2613",
+        "esp_subst_passag": "3614"
+    },
+    {
+        "id": "323",
+        "marca_carro": "SEAT",
+        "modelo": "LEON",
+        "data": "1999 >",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3170"
+    },
+    {
+        "id": "324",
+        "marca_carro": "SEAT",
+        "modelo": "LEON",
+        "data": "2005 >",
+        "esp_segur_condu": "1611",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2611",
+        "esp_subst_passag": "3612"
+    },
+    {
+        "id": "325",
+        "marca_carro": "SEAT",
+        "modelo": "MARBELLA",
+        "data": "Até a 1997",
+        "esp_segur_condu": "1261",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2261",
+        "esp_subst_passag": "3262"
+    },
+    {
+        "id": "326",
+        "marca_carro": "SEAT",
+        "modelo": "TOLEDO",
+        "data": "4.1999 > 2002",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3170"
+    },
+    {
+        "id": "327",
+        "marca_carro": "SEAT",
+        "modelo": "TOLEDO",
+        "data": "2003 >",
+        "esp_segur_condu": "1607",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2607",
+        "esp_subst_passag": "3608"
+    },
+    {
+        "id": "328",
+        "marca_carro": "SEAT",
+        "modelo": "TOLEDO",
+        "data": "Até a 2004",
+        "esp_segur_condu": "1605",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2605",
+        "esp_subst_passag": "3606"
+    },
+    {
+        "id": "329",
+        "marca_carro": "SEAT",
+        "modelo": "TOLEDO",
+        "data": "2005 >",
+        "esp_segur_condu": "1611",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2611",
+        "esp_subst_passag": "3612"
+    },
+    {
+        "id": "330",
+        "marca_carro": "SKODA",
+        "modelo": "FABIA",
+        "data": "1999 >",
+        "esp_segur_condu": "",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "42701",
+        "esp_subst_passag": "42702"
+    },
+    {
+        "id": "331",
+        "marca_carro": "SKODA",
+        "modelo": "FABIA II",
+        "data": "05.2007 >",
+        "esp_segur_condu": "",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "",
+        "esp_subst_passag": ""
+    },
+    {
+        "id": "332",
+        "marca_carro": "SKODA",
+        "modelo": "FELICIA",
+        "data": "Até a 2001",
+        "esp_segur_condu": "1173",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2173",
+        "esp_subst_passag": "42712"
+    },
+    {
+        "id": "333",
+        "marca_carro": "SKODA",
+        "modelo": "OCTAVIA",
+        "data": "Até a 1999",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3170"
+    },
+    {
+        "id": "334",
+        "marca_carro": "SKODA",
+        "modelo": "OCTAVIA",
+        "data": "1999 > 2004",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3172"
+    },
+    {
+        "id": "335",
+        "marca_carro": "SKODA",
+        "modelo": "OCTAVIA II",
+        "data": "2004 >",
+        "esp_segur_condu": "1193",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2193",
+        "esp_subst_passag": "3194"
+    },
+    {
+        "id": "336",
+        "marca_carro": "SKODA",
+        "modelo": "ROOMSTER",
+        "data": "09.2006 >",
+        "esp_segur_condu": "",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "",
+        "esp_subst_passag": ""
+    },
+    {
+        "id": "337",
+        "marca_carro": "SMART",
+        "modelo": "CITY, FORTWO, ROADSTER",
+        "data": ">",
+        "esp_segur_condu": "1913",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2913",
+        "esp_subst_passag": "3914"
+    },
+    {
+        "id": "338",
+        "marca_carro": "SMART",
+        "modelo": "FORFOUR",
+        "data": ">",
+        "esp_segur_condu": "1915",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2915",
+        "esp_subst_passag": "3916"
+    },
+    {
+        "id": "339",
+        "marca_carro": "SUZUKI",
+        "modelo": "ALTO",
+        "data": ">",
+        "esp_segur_condu": "1863",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2863",
+        "esp_subst_passag": "3864"
+    },
+    {
+        "id": "340",
+        "marca_carro": "SUZUKI",
+        "modelo": "BALENO",
+        "data": "Até a 2001",
+        "esp_segur_condu": "1867",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2867",
+        "esp_subst_passag": "3868"
+    },
+    {
+        "id": "341",
+        "marca_carro": "SUZUKI",
+        "modelo": "MARUTI",
+        "data": ">",
+        "esp_segur_condu": "1863",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2863",
+        "esp_subst_passag": "3864"
+    },
+    {
+        "id": "342",
+        "marca_carro": "SUZUKI",
+        "modelo": "SWIFT",
+        "data": "Até a 2001",
+        "esp_segur_condu": "1865",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2865",
+        "esp_subst_passag": "3866"
+    },
+    {
+        "id": "343",
+        "marca_carro": "SUZUKI",
+        "modelo": "SWIFT II",
+        "data": "2005 > 2009",
+        "esp_segur_condu": "1831",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2831",
+        "esp_subst_passag": "3832"
+    },
+    {
+        "id": "344",
+        "marca_carro": "SUZUKI",
+        "modelo": "SX4",
+        "data": "6.2006 >",
+        "esp_segur_condu": "1293",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2293",
+        "esp_subst_passag": "3294"
+    },
+    {
+        "id": "345",
+        "marca_carro": "SUZUKI",
+        "modelo": "VITARA",
+        "data": "1988 > 1992",
+        "esp_segur_condu": "1861",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "3861",
+        "esp_subst_passag": "3862"
+    },
+    {
+        "id": "346",
+        "marca_carro": "SUZUKI",
+        "modelo": "WAGON R",
+        "data": "1998 >",
+        "esp_segur_condu": "1869",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "3869",
+        "esp_subst_passag": "3870"
+    },
+    {
+        "id": "347",
+        "marca_carro": "TOYOTA",
+        "modelo": "AURIS",
+        "data": "2006 >",
+        "esp_segur_condu": "1873",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2873",
+        "esp_subst_passag": "3874"
+    },
+    {
+        "id": "348",
+        "marca_carro": "TOYOTA",
+        "modelo": "AVENSIS",
+        "data": "1997 >",
+        "esp_segur_condu": "1879",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2879",
+        "esp_subst_passag": "3880"
+    },
+    {
+        "id": "349",
+        "marca_carro": "TOYOTA",
+        "modelo": "AYGO",
+        "data": "2005 >",
+        "esp_segur_condu": "1137",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2137",
+        "esp_subst_passag": "3138"
+    },
+    {
+        "id": "350",
+        "marca_carro": "TOYOTA",
+        "modelo": "CARINA",
+        "data": "Até a 1996",
+        "esp_segur_condu": "1875",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2875",
+        "esp_subst_passag": "3876"
+    },
+    {
+        "id": "351",
+        "marca_carro": "TOYOTA",
+        "modelo": "CELICA",
+        "data": "Até a 1995",
+        "esp_segur_condu": "1877",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2877",
+        "esp_subst_passag": "3878"
+    },
+    {
+        "id": "352",
+        "marca_carro": "TOYOTA",
+        "modelo": "CELICA",
+        "data": "1996 >",
+        "esp_segur_condu": "1881",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2881",
+        "esp_subst_passag": "3882"
+    },
+    {
+        "id": "353",
+        "marca_carro": "TOYOTA",
+        "modelo": "COROLLA",
+        "data": "1992 >",
+        "esp_segur_condu": "1883",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2883",
+        "esp_subst_passag": "3884"
+    },
+    {
+        "id": "354",
+        "marca_carro": "TOYOTA",
+        "modelo": "RAV-4",
+        "data": "1996 > 2001",
+        "esp_segur_condu": "1887",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2887",
+        "esp_subst_passag": "3888"
+    },
+    {
+        "id": "355",
+        "marca_carro": "TOYOTA",
+        "modelo": "STARLET",
+        "data": "Até a 1989",
+        "esp_segur_condu": "1885",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2885",
+        "esp_subst_passag": "3886"
+    },
+    {
+        "id": "356",
+        "marca_carro": "TOYOTA",
+        "modelo": "STARLET",
+        "data": "1990 >",
+        "esp_segur_condu": "1881",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2881",
+        "esp_subst_passag": "3882"
+    },
+    {
+        "id": "357",
+        "marca_carro": "TOYOTA",
+        "modelo": "YARIS",
+        "data": "1999 >",
+        "esp_segur_condu": "1883",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2883",
+        "esp_subst_passag": "3884"
+    },
+    {
+        "id": "358",
+        "marca_carro": "TOYOTA",
+        "modelo": "YARIS",
+        "data": "2006 >",
+        "esp_segur_condu": "1873",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2873",
+        "esp_subst_passag": "3874"
+    },
+    {
+        "id": "359",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "BORA",
+        "data": ">",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "1170",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3170"
+    },
+    {
+        "id": "360",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "FOX",
+        "data": "2005 >",
+        "esp_segur_condu": "1185",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2185",
+        "esp_subst_passag": "3186"
+    },
+    {
+        "id": "361",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "GOLF II-JETTA II",
+        "data": "7.87 > 1992",
+        "esp_segur_condu": "1151",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2151",
+        "esp_subst_passag": "3152"
+    },
+    {
+        "id": "362",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "GOLF III",
+        "data": "1992 >",
+        "esp_segur_condu": "1165",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2165",
+        "esp_subst_passag": "3166"
+    },
+    {
+        "id": "363",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "GOLF IV",
+        "data": "11.97 >",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "1170",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3170"
+    },
+    {
+        "id": "364",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "GOLF V",
+        "data": "2004 >",
+        "esp_segur_condu": "1181",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2181",
+        "esp_subst_passag": "3182"
+    },
+    {
+        "id": "365",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "GOLF Plus",
+        "data": "2005 >",
+        "esp_segur_condu": "1181",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2181",
+        "esp_subst_passag": "3182"
+    },
+    {
+        "id": "366",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "GOLF VI",
+        "data": "10.08 >",
+        "esp_segur_condu": "1195",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2195",
+        "esp_subst_passag": "3196"
+    },
+    {
+        "id": "367",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "LUPO",
+        "data": "Até a 2001",
+        "esp_segur_condu": "1171",
+        "esp_segur_passag": "1170",
+        "esp_subst_condu": "2171",
+        "esp_subst_passag": "3170"
+    },
+    {
+        "id": "368",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "LUPO",
+        "data": "2001 >",
+        "esp_segur_condu": "1175",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2175",
+        "esp_subst_passag": "3176"
+    },
+    {
+        "id": "369",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "NEW BEETLE",
+        "data": "1999 > 2001",
+        "esp_segur_condu": "82911",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "42923",
+        "esp_subst_passag": "42924"
+    },
+    {
+        "id": "370",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "NEW BEETLE",
+        "data": "2001 >",
+        "esp_segur_condu": "1189",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "42903",
+        "esp_subst_passag": "42904"
+    },
+    {
+        "id": "371",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "PASSAT",
+        "data": "4.88 > 10.96",
+        "esp_segur_condu": "1159",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2159",
+        "esp_subst_passag": "3160"
+    },
+    {
+        "id": "372",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "PASSAT",
+        "data": "11.96 > 1997",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "1170",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3172"
+    },
+    {
+        "id": "373",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "PASSAT",
+        "data": "1997 >",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "1170",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3170"
+    },
+    {
+        "id": "374",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "POLO",
+        "data": "1983 > 1995",
+        "esp_segur_condu": "1161",
+        "esp_segur_passag": "1161",
+        "esp_subst_condu": "2161",
+        "esp_subst_passag": "3162"
+    },
+    {
+        "id": "375",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "POLO",
+        "data": "1995 > 1999",
+        "esp_segur_condu": "1167",
+        "esp_segur_passag": "1168",
+        "esp_subst_condu": "2167",
+        "esp_subst_passag": "3168"
+    },
+    {
+        "id": "376",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "POLO Variant",
+        "data": "Até a 2000",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "1170",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3170"
+    },
+    {
+        "id": "377",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "POLO (sauf Variant)",
+        "data": "2000 > 2002",
+        "esp_segur_condu": "1175",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2175",
+        "esp_subst_passag": "3176"
+    },
+    {
+        "id": "378",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "POLO",
+        "data": "2002 >",
+        "esp_segur_condu": "1183",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2183",
+        "esp_subst_passag": "3184"
+    },
+    {
+        "id": "379",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "POLO",
+        "data": "2006 >",
+        "esp_segur_condu": "1193",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2193",
+        "esp_subst_passag": "3194"
+    },
+    {
+        "id": "380",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "VENTO",
+        "data": ">",
+        "esp_segur_condu": "1165",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2165",
+        "esp_subst_passag": "3166"
+    },
+    {
+        "id": "381",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "SHARAN",
+        "data": "Até a 1999",
+        "esp_segur_condu": "1223",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2223",
+        "esp_subst_passag": "3224"
+    },
+    {
+        "id": "382",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "SHARAN",
+        "data": "1999 >",
+        "esp_segur_condu": "1169",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2169",
+        "esp_subst_passag": "3172"
+    },
+    {
+        "id": "383",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "TIGUAN",
+        "data": "2007 >",
+        "esp_segur_condu": "1473",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2473",
+        "esp_subst_passag": "3474"
+    },
+    {
+        "id": "384",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "TOUAREG",
+        "data": "2002 > 2006",
+        "esp_segur_condu": "1475",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "14407",
+        "esp_subst_passag": "14408"
+    },
+    {
+        "id": "385",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "TOUAREG",
+        "data": "2006 >",
+        "esp_segur_condu": "1471",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2471",
+        "esp_subst_passag": "3472"
+    },
+    {
+        "id": "386",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "TOURAN",
+        "data": "2.2003 >",
+        "esp_segur_condu": "1187",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2187",
+        "esp_subst_passag": "3188"
+    },
+    {
+        "id": "387",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "TRANSPORTER T4",
+        "data": "7.90 > 4.03",
+        "esp_segur_condu": "1163",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "42921",
+        "esp_subst_passag": "3164"
+    },
+    {
+        "id": "388",
+        "marca_carro": "VOLKSWAGEN",
+        "modelo": "TRANSPORTER T5",
+        "data": "4.2003 >",
+        "esp_segur_condu": "1191",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "2191",
+        "esp_subst_passag": "3192"
+    },
+    {
+        "id": "389",
+        "marca_carro": "VOLVO",
+        "modelo": "480",
+        "data": "1992 > 1995",
+        "esp_segur_condu": "1803",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "43123",
+        "esp_subst_passag": "43123"
+    },
+    {
+        "id": "390",
+        "marca_carro": "VOLVO",
+        "modelo": "850",
+        "data": "1992 > 1996",
+        "esp_segur_condu": "1805",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "43113",
+        "esp_subst_passag": "3806"
+    },
+    {
+        "id": "391",
+        "marca_carro": "VOLVO",
+        "modelo": "S40",
+        "data": "1996 >",
+        "esp_segur_condu": "1805",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "43113",
+        "esp_subst_passag": "3806"
+    },
+    {
+        "id": "392",
+        "marca_carro": "VOLVO",
+        "modelo": "V40",
+        "data": "1996 >",
+        "esp_segur_condu": "1805",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "43113",
+        "esp_subst_passag": "3806"
+    },
+    {
+        "id": "393",
+        "marca_carro": "VOLVO",
+        "modelo": "S70",
+        "data": "1996 >",
+        "esp_segur_condu": "1805",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "43113",
+        "esp_subst_passag": "3806"
+    },
+    {
+        "id": "394",
+        "marca_carro": "VOLVO",
+        "modelo": "V70",
+        "data": "1996 >",
+        "esp_segur_condu": "1805",
+        "esp_segur_passag": "",
+        "esp_subst_condu": "43113",
+        "esp_subst_passag": "3806"
+    }
+]

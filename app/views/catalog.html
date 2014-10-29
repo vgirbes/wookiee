@@ -1,27 +1,39 @@
+  <a href="/">
+     <div class="back"></div>
+  </a>
   <div class="presentation align-vertical">
     <span class="option" ng-controller="Catalog">Selecciona una opción</span>
   </div>
 
   <ul class="bxslider">
   	<li>
-      <a ng-repeat="item in page1" href="javascript: void(0);" idcat="10" img_promo="" subtitulo="Identifique o seu veículo">
+      <a ng-repeat="item in page1" href="#/{{ item.link }}" idcat="10" img_promo="" subtitulo="Identifique o seu veículo">
         <span class="sombra"></span>
         <img src="{{ item.image }}">
         <span class="texto">{{ item.name }}</span>
       </a>
     </li>
     <li>
-      <a ng-repeat="item in page2" href="javascript: void(0);" idcat="10" img_promo="" subtitulo="Identifique o seu veículo">
+      <a ng-repeat="item in page2" href="#/{{ item.link }}" idcat="10" img_promo="" subtitulo="Identifique o seu veículo">
         <span class="sombra"></span>
         <img src="{{ item.image }}">
         <span class="texto">{{ item.name }}</span>
       </a>
     </li>
     <li>
-      <a ng-repeat="item in page3" on-finish-render="" href="javascript: void(0);" idcat="10" img_promo="" subtitulo="Identifique o seu veículo">
+      <a ng-repeat="item in page3" on-finish-render="" href="#/{{ item.link }}" idcat="10" img_promo="" subtitulo="Identifique o seu veículo">
         <span class="sombra"></span>
         <img src="{{ item.image }}">
         <span class="texto">{{ item.name }}</span>
       </a>
     </li>
   </ul>
+
+  <div class="bread">
+    <a href="/">
+      <div class="go-home"><span></span></div>
+    </a>
+    <a href="#">
+      <div class="go-cat"></div>
+    </a>
+  </div>

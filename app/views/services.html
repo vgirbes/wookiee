@@ -1,0 +1,21 @@
+<breadcrumbheader></breadcrumbheader>
+<div class="presentation-search" ng-repeat="category in categories | by_id:id_cat">
+   Serviços de Oficina
+   <div class="no-exist" ng-repeat="service in category.services" ng-show="!service.price.length && !service.name.length">
+   Não existem serviços de oficina para esta categoria, por favor consulte um colaborador
+   </div>
+</div>
+
+<div id="info-services" class="box-table" ng-repeat="category in categories | by_id:id_cat">
+	<table class="table-header" ng-repeat="category in categories | by_id:id_cat">
+		<tr >
+			<th><b>Serviços Norauto</b></th>
+			<th><b>Preços</b></th>
+		</tr>
+		<tr ng-repeat="service in category.services" on-load-services="">
+			<td>{{ service.name }}</td>
+			<td>{{ service.price }}</td>
+		</tr>
+	</table>
+</div>
+<breadcrumbfooter></breadcrumbfooter>

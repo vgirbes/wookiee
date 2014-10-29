@@ -1,0 +1,31 @@
+{
+    "filter_1": [
+    	{"name":"Marca", "field_name":"brand"},
+    	{"name":"Modelo e Ano", "field_name":"model_year"}
+    ],
+    "filter_2": [
+    	{"name":"Marca", "field_name":"brand"},
+    	{"name":"Modelo e Ano", "field_name":"model_year"},
+    	{"name":"Motorizaçao", "field_name":"motor"}
+    ],
+    "filter_3": [
+    	{"name":"Tipo", "field_name":"type"},
+    	{"name":"Marca", "field_name":"brand"},
+    	{"name":"Modelo", "field_name":"model"},
+    	{"name":"Motorizaçao", "field_name":"motor"}
+    ],
+    "filter_4": [
+    	{"name":"Tipo", "field_name":"type"},
+    	{"name":"Marca", "field_name":"brand"},
+    	{"name":"Modelo", "field_name":"model"}
+    ],
+    "filter_5": [
+    	{"name":"Marca", "field_name":"brand"},
+    	{"name":"Modelo e Ano", "field_name":"model_year"},
+    	{"name":"Versao", "field_name":"version"}
+    ],
+    "filter_6": [
+    	{"name":"Tamanho da Roda", "field_name":"pneu_tam"},
+    	{"name":"Medida do Pneu", "field_name":"pneu_size"}
+    ]
+}
