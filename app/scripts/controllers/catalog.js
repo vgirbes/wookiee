@@ -36,6 +36,7 @@ angular.module('wookieesApp').controller('ShowProduct', function ($scope, $route
     $scope.id_cat = $routeParams.id_cat;
     $scope.id_product = $routeParams.id_product;
     $scope.id_filter = $routeParams.id_filter;
+    $scope.prior = 'category';
 
     get_categories($scope, $http);
     get_product($scope, $http);
@@ -46,6 +47,7 @@ angular.module('wookieesApp').controller('Services', function ($scope, $routePar
     $scope.id_cat = $routeParams.id_cat;
     $scope.id_product = $routeParams.id_product;
     $scope.id_filter = $routeParams.id_filter;
+    $scope.prior = 'product';
 
     get_categories($scope, $http);
     get_product($scope, $http);
