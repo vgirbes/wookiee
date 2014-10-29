@@ -1,0 +1,64 @@
+<div class="presentation-search">
+   Lampadas para sua viatura
+   <div class="no-exist" ng-repeat="product in products | by_id:id_product" ng-show="!product.minimos.length && !product.medios.length && !product.maximos.length && !product.nevoeiro_frente.length && !product.pisaca_frente.length && !product.pisaca_lateral.length && !product.pisaca_tras.length && !product.stop.length && !product.presenca.length && !product.nevoeiro_tras.length && !product.marcha_atras.length && !product.matricula.length">
+   	Não existem resultados para a sua viatura, por favor consulte um colaborador
+   </div>
+</div>
+
+<div class="box-table">
+	<table class="table-header">
+		<tr class="lamp">
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.minimos.length"><b>Mínimos</b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.medios.length"><b>Médios</b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.maximos.length"><b>Máximos</b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.nevoeiro_frente.length">
+				<b>Nevoeiro</b>
+				<p>
+					<span class="mini">Frente</span>
+				</p>
+			</th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.pisaca_frente.length">
+				<b>Pisca</b>
+				<p>
+					<span class="mini">Frente</span>
+				</p>
+			</th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.pisaca_lateral.length">
+				<b>Pisca</b>
+				<p>
+					<span class="mini">Lateral</span>
+				</p>
+			</th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.pisaca_tras.length">
+				<b>Pisaca</b>
+				<p>
+					<span class="mini">Trás</span>
+				</p>
+			</th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.stop.length"><b>Stop</b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.presenca.length"><b>Luz de Presença</b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.nevoeiro_tras.length">
+				<b>Nevoeiro</b>
+				<p>
+					<span class="mini">Tras</span>
+				</p>
+			</th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.marcha_atras.length"><b>Marcha atrás</b></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.matricula.length"><b>Iluminação da matricula</b></th>
+		</tr>
+		<tr>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.minimos.length">{{ product.minimos }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.medios.length">{{ product.medios }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.maximos.length">{{ product.maximos }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.nevoeiro_frente.length">{{ product.nevoeiro_frente }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.pisaca_frente.length">{{ product.pisaca_frente }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.pisaca_lateral.length">{{ product.pisaca_lateral }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.pisaca_tras.length">{{ product.pisaca_tras }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.stop.length">{{ product.stop }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.presenca.length">{{ product.presenca }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.nevoeiro_tras.length">{{ product.nevoeiro_tras }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.marcha_atras.length">{{ product.marcha_atras }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.matricula.length">{{ product.matricula }}</td>
+		</tr>
+	</table>
+</div>

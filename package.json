@@ -2,7 +2,10 @@
   "name": "wookiees",
   "version": "1.0.0",
   "repository": "https://bitbucket.org/norauto/wookiees",
-  "dependencies": {},
+  "dependencies": {
+    "gzippo": "~0.2.0",
+    "express": "~4.10.1"
+  },
   "devDependencies": {
     "grunt": "^0.4.1",
     "grunt-autoprefixer": "^0.7.3",

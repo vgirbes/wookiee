@@ -1,0 +1,23 @@
+<div class="presentation-search">
+   Espelhos e retrovisores para a sua viatura
+   <div class="no-exist" ng-repeat="product in products | by_id:id_product" ng-show="!product.esp_segur_condu.length && !product.esp_segur_passag.length && !product.esp_subst_condu.length && !product.esp_subst_passag.length">
+   Não existem resultados para a sua viatura, por favor consulte um colaborador
+   </div>
+</div>
+
+<div class="box-table" ng-repeat="product in products | by_id:id_product" ng-hide="!product.esp_segur_condu.length && !product.esp_segur_passag.length && !product.esp_subst_condu.length && !product.esp_subst_passag.length">
+	<table class="table-header">
+		<tr>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.esp_segur_condu.length"><b>Esp. Segurança</b> <p><span class="mini">Condutor</span></p></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.esp_segur_passag.length"><b>Esp. Segurança</b> <p><span class="mini">Passageiro</span></p></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.esp_subst_condu.length"><b>Esp. Substituição</b> <p><span class="mini">Condutor</span></p></th>
+			<th ng-repeat="product in products | by_id:id_product" ng-hide="!product.esp_subst_passag.length"><b>Esp. Substituição</b> <p><span class="mini">Passageiro</span></th>
+		</tr>
+		<tr>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.esp_segur_condu.length">{{ product.esp_segur_condu }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.esp_segur_passag.length">{{ product.esp_segur_passag }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.esp_subst_condu.length">{{ product.esp_subst_condu }}</td>
+			<td ng-repeat="product in products | by_id:id_product" ng-hide="!product.esp_subst_passag.length">{{ product.esp_subst_passag }}</td>
+		</tr>
+	</table>
+</div>

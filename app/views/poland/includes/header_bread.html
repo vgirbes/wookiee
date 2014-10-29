@@ -1,0 +1,13 @@
+<a href="#/catalog/category/{{ cat_name }}/{{ id_cat }}/{{ id_filter }}">
+ <div class="back"></div>
+</a>
+
+<div class="header-search" ng-repeat="category in categories | by_id:id_cat">
+<a>
+  <span class="sombra"></span>
+  <img  src="{{ category.image }}" />
+  <span class="shadow"></span>
+  <div class="category-name">{{ category.name }}</div>
+</a>
+<div class="last-update" ng-repeat="product in products | by_id:id_product">{{ product.marca_carro }}  {{ product.modelo }}</div>
+</div>

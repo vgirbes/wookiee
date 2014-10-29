@@ -1,0 +1,27 @@
+<div class="presentation-search">
+   Velas Gasolina para sua viatura
+   <div class="no-exist" ng-repeat="product in products | by_id:id_product" ng-show="!product.marca1.length && !product.marca2.length && !product.marca3.length">
+   Não existem resultados para a sua viatura, por favor consulte um colaborador
+   </div>
+</div>
+
+<div class="box-table">
+	<table class="table-header">
+		<tr ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca1.length && !product.marca2.length && !product.marca3.length">
+			<th ng-repeat="product in products | by_id:id_product"><b>Marca</b></th>
+			<th ng-repeat="product in products | by_id:id_product"><b>Referència</b></th>
+		</tr>
+		<tr ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca1.length">
+			<td ng-repeat="product in products | by_id:id_product"><img src="images/marca2.jpg" /></td>
+			<td ng-repeat="product in products | by_id:id_product">{{ product.marca1 }}</td>
+		</tr>
+		<tr ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca2.length">
+			<td ng-repeat="product in products | by_id:id_product"><img src="images/marca10.jpg" /></td>
+			<td ng-repeat="product in products | by_id:id_product">{{ product.marca2 }}</td>
+		</tr>
+		<tr ng-repeat="product in products | by_id:id_product" ng-hide="!product.marca3.length">
+			<td ng-repeat="product in products | by_id:id_product"><img src="images/marca9.jpg" /></td>
+			<td ng-repeat="product in products | by_id:id_product">{{ product.marca3 }}</td>
+		</tr>
+	</table>
+</div>
