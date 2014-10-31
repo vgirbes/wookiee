@@ -27,7 +27,7 @@ angular
         templateUrl: 'views/catalog.html',
         controller: 'Catalog'
       })
-      .when('/catalog/category/:name/:id_cat/:id_filter', {
+      .when('/catalog/category/:name/:id_cat/:id_filter/:id_product', {
         templateUrl: 'views/search.html',
         controller: 'DefineSearch'
       })

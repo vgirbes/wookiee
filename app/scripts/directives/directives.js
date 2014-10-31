@@ -29,9 +29,7 @@ angular.module('wookieesApp').directive('onLoadProducts', function ($timeout) {
 		restrict: 'A',
 		scope: false,
 		link: function(scope, element, attrs) {
-            console.log('cargado 1');
 			if (scope.$last === true) {
-				console.log('cargado 2');
 	            $timeout(function () {
 	                scope.$emit('ngLoadProducts');
 	            });

@@ -23,9 +23,13 @@ angular.module('wookieesApp').controller('DefineSearch', function ($scope, $rout
     $scope.id_cat = $routeParams.id_cat;
     $scope.filter = $routeParams.id_filter;
     $scope.$watch(function() {
+      
+    });
+    $scope.$on('ngRepeatFinished', function(ngRepeatFinishedEvent) {
+      $('.loading').hide();
       $('#filter-type-'+$routeParams.id_filter).show();
     });
-
+    
     get_categories($scope, $http);
     get_filters($scope, $http, $routeParams);
     
@@ -120,10 +124,13 @@ function show_motor($scope, modelo, name){
 
 function show_model_year($scope, name) {
   $scope.model_years = [];
+  $scope.w_name = name;
+
   if (name != ''){
     angular.forEach($scope.brands, function(brand) {
       if (brand.marca_carro == name){
         $scope.model_years.push(brand);
+        $scope.select_name = brand.modelo;
       }
     });
   }

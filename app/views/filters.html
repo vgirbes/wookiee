@@ -1,33 +1,34 @@
+    
     <div class="relative-inner" id="filter-type-1">
       <label>Marca
-        <select id="brand_1" name="brand_1" ng-model="brand_model" ng-click="show_model_year(brand_model)">
+        <select id="brand_1" name="brand_1" ng-model="brand_model" ng-change="show_model_year(brand_model)">
           <option value="0">Selecione uma opção</option>
-          <option ng-repeat="brand in brands | unique:'marca_carro'" value="{{ brand.marca_carro }}">{{ brand.marca_carro }}</option>
+          <option on-finish-render="" ng-repeat="brand in brands | unique:'marca_carro'" value="{{ brand.marca_carro }}">{{ brand.marca_carro }}</option>
         </select>
       </label>
       <label>Modelo e Ano
-        <select id="model_year_1" name="model_year_1" ng-model="product" ng-click="load_product(product)">
+        <select id="model_year_1" name="model_year_1" ng-model="product" ng-change="load_product(product)">
           <option value="0">Selecione uma opção</option>
-          <option ng-repeat="model_year in model_years" value="{{ model_year.id }}">{{ model_year.modelo }} [{{ model_year.data_ini }} - {{ model_year.data_fim }}]</option>
+          <option on-finish-render="" ng-repeat="model_year in model_years" value="{{ model_year.id }}">{{ model_year.modelo }} [{{ model_year.data_ini }} - {{ model_year.data_fim }}]</option>
         </select>
       </label>
     </div>
 
     <div class="relative-inner" id="filter-type-2">
       <label>Marca
-        <select id="brand_2" name="brand_2" ng-model="brand_model" ng-click="show_model_year(brand_model)">
+        <select id="brand_2" name="brand_2" ng-model="brand_model" ng-change="show_model_year(brand_model)">
           <option value="0" selected="true">Selecione uma opção</option>
           <option ng-repeat="brand in brands | unique:'marca_carro'" value="{{ brand.marca_carro }}">{{ brand.marca_carro }}</option>
         </select>
       </label>
       <label>Modelo e Ano
-        <select id="model_year_2" name="model_year_2" ng-model="modelo_model" ng-click="show_motor(modelo_model, brand_model)">
+        <select id="model_year_2" name="model_year_2" ng-model="modelo_model" ng-change="show_motor(modelo_model, brand_model)">
           <option value="0">Selecione uma opção</option>
           <option ng-repeat="model_year in model_years | unique:'modelo'" value="{{ model_year.modelo }}">{{ model_year.modelo }} [{{model_year.data_ini}} - {{model_year.data_fim}}]</option>
         </select>
       </label>
       <label>Mortorizaçao
-        <select id="motor_2" name="motor_2" ng-model="product" ng-click="load_product(product)">
+        <select id="motor_2" name="motor_2" ng-model="product" ng-change="load_product(product)">
           <option value="0">Selecione uma opção</option>
           <option ng-repeat="motor in motors | unique:'motorizacao'" value="{{ motor.id }}">{{ motor.motorizacao }}</option>
         </select>
@@ -36,7 +37,7 @@
 
     <div class="relative-inner" id="filter-type-3">
       <label>Tipo
-        <select id="type_3" name="type_3" ng-model="type_model" ng-click="show_brand(type_model)">
+        <select id="type_3" name="type_3" ng-model="type_model" ng-change="show_brand(type_model)">
           <option value="0">Selecione uma opção</option>
           <option ng-repeat="type in types | unique:'marca_carro'" value="">{{ type.marca_carro }}</option>
         </select>
@@ -84,13 +85,13 @@
 
     <div class="relative-inner" id="filter-type-5">
       <label>Marca
-        <select id="brand_5" name="brand_5" ng-model="brand_model" ng-click="show_model_year(brand_model)">
+        <select id="brand_5" name="brand_5" ng-model="brand_model" ng-change="show_model_year(brand_model)">
           <option value="0">Selecione uma opção</option>
           <option ng-repeat="brand in brands | unique:'marca_carro'" value="{{ brand.marca_carro }}" on-load-products="">{{ brand.marca_carro }}</option>
         </select>
       </label>
       <label>Modelo e Ano
-        <select id="model_year_5" name="model_year_5" ng-model="modelo_model" ng-click="show_motor(modelo_model, brand_model)">
+        <select id="model_year_5" name="model_year_5" ng-model="modelo_model" ng-change="show_motor(modelo_model, brand_model)">
           <option value="0">Selecione uma opção</option>
           <option ng-repeat="model_year in model_years | unique:'modelo'" value="{{ model_year.modelo }}">{{ model_year.modelo }}</option>
         </select>
