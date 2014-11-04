@@ -2,7 +2,7 @@
 
 // var app = angular.module('wookieesApp', []);
 angular.module('wookieesApp').controller('Catalog', function ($scope, $http) {
-    $http.get('assets/categories.json').success(function (data) {
+    $http.get('assets/categories.json', { cache: true }).success(function (data) {
         $scope.datos = data.categories;
         $scope.page1 = data.categories.slice(0, 8);
         $scope.page2 = data.categories.slice(8, 16);
@@ -43,7 +43,7 @@ angular.module('wookieesApp').controller('ShowProduct', function ($scope, $route
     $scope.prior = 'category';
 
     get_categories($scope, $http);
-    get_product($scope, $http);
+    get_product($scope, $http, 'no-filter');
 });
 
 angular.module('wookieesApp').controller('Services', function ($scope, $routeParams, $http) {
@@ -54,7 +54,7 @@ angular.module('wookieesApp').controller('Services', function ($scope, $routePar
     $scope.prior = 'product';
 
     get_categories($scope, $http);
-    get_product($scope, $http);
+    get_product($scope, $http, 'no-filter');
     $scope.$on('ngServicesLoaded', function(ngServicesLoadedEvent) {
       if ($('.no-exist').is(':visible')){
         $('#info-services').hide();
@@ -76,8 +76,8 @@ angular.module('wookieesApp').filter('by_id', function() {
 });
 
 function get_filters($scope, $http, $routeParams){
-  $http.get('assets/filters.json').success(function (data) {
-    get_product($scope, $http);
+  $http.get('assets/filters.json', { cache: true }).success(function (data) {
+    get_product($scope, $http, 'filter');
     switch ($routeParams.id_filter){
       case "1":
         $scope.show_model_year = function(name){ show_model_year($scope, name); };
@@ -137,36 +137,57 @@ function show_model_year($scope, name) {
 }
 
 function get_categories($scope, $http){
-  $http.get('assets/categories.json').success(function (data) {
+  $http.get('assets/categories.json', { cache: true }).success(function (data) {
     $scope.categories = data.categories;
   });
+
 }
 
-function get_product($scope, $http){
-  $http.get('assets/products/poland/'+$scope.cat_name+'.json').success(function (data) {
-    $scope.products = data;
-    $scope.brands = data;
-    $scope.model_years = data;
-  });
+function get_product($scope, $http, type){
+  var retrievedBrands = localStorage.getItem($scope.cat_name+'_brands');
+  var retrievedProducts = localStorage.getItem($scope.cat_name+'_products');
+  var retrievedModel_year = localStorage.getItem($scope.cat_name+'_model_year');
+
+  //console.log('1 cache '+retrievedBrands);
+  if (retrievedBrands && retrievedProducts && retrievedModel_year){
+    console.log('Enter 1 '+type);
+    if (type == 'no-filter'){
+      $scope.products = JSON.parse(retrievedProducts);
+      $scope.model_years = JSON.parse(retrievedModel_year);
+    }
+    $scope.brands = JSON.parse(retrievedBrands);
+    
+  }else{
+    $http.get('assets/products/poland/'+$scope.cat_name+'.json', { cache: true }).success(function (data) {
+      console.log('Enter 2');
+      $scope.products = data;
+      $scope.brands = data;
+      $scope.model_years = data;
+      window.localStorage.setItem($scope.cat_name+'_products', JSON.stringify(data));;
+      window.localStorage.setItem($scope.cat_name+'_brands', JSON.stringify(data));;
+      window.localStorage.setItem($scope.cat_name+'_model_year', JSON.stringify(data));;
+    });
+  }
 }
 
 angular.module('wookieesApp').filter('unique', function () {
   return function (items, filterOn) {
 
-    if (filterOn === false) {
-      return items;
-    }
-    if ((filterOn || angular.isUndefined(filterOn)) && angular.isArray(items)) {
-      var hashCheck = {}, newItems = [];
-      var extractValueToCompare = function (item) {
-      if (angular.isObject(item) && angular.isString(filterOn)) {
-        return item[filterOn];
-      } else {
-        return item;
-      }
-  };
+  if (filterOn === false) {
+    return items;
+  }
 
-  angular.forEach(items, function (item) {
+  if ((filterOn || angular.isUndefined(filterOn)) && angular.isArray(items)) {
+    var hashCheck = {}, newItems = [];
+    var extractValueToCompare = function (item) {
+        if (angular.isObject(item) && angular.isString(filterOn)) {
+          return item[filterOn];
+        } else {
+          return item;
+        }
+    };
+
+    angular.forEach(items, function (item) {
       var valueToCheck, isDuplicate = false;
       for (var i = 0; i < newItems.length; i++) {
         if (angular.equals(extractValueToCompare(newItems[i]), extractValueToCompare(item))) {
@@ -179,9 +200,9 @@ angular.module('wookieesApp').filter('unique', function () {
         newItems.push(item);
       }
     });
-    items = newItems;
-    }
-    return items;
-    };
-});
 
+    items = newItems;
+  }
+  return items;
+  };
+});

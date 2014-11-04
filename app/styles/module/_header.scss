@@ -31,3 +31,38 @@
     width: 80%;
   }
 }
+
+@media screen and (max-height: 330px) {
+  .header{
+    height: 2.25em;
+    .logo{
+      top: 0.3em;
+      img{
+        width: 8.575em;
+        height: 2.913em;
+      }
+    }
+    .brand {
+      display: inline-block;
+      margin: 1em auto 0;
+      top: 2.8em;
+
+      img {
+        max-width: 300px;
+        width: 80%;
+      }
+    }
+  }
+  
+  .header-search{
+    display: none;
+  }
+
+  
+}
+
+@media screen and (max-height: 600px) {
+  .header-search{
+    display: none;
+  }
+}
