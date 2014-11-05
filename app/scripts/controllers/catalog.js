@@ -146,26 +146,25 @@ function get_categories($scope, $http){
 function get_product($scope, $http, type){
   var retrievedBrands = localStorage.getItem($scope.cat_name+'_brands');
   var retrievedProducts = localStorage.getItem($scope.cat_name+'_products');
-  var retrievedModel_year = localStorage.getItem($scope.cat_name+'_model_year');
+  //var retrievedModel_year = localStorage.getItem($scope.cat_name+'_model_year');
 
-  //console.log('1 cache '+retrievedBrands);
-  if (retrievedBrands && retrievedProducts && retrievedModel_year){
-    console.log('Enter 1 '+type);
+  if (retrievedBrands && retrievedProducts){
     if (type == 'no-filter'){
       $scope.products = JSON.parse(retrievedProducts);
-      $scope.model_years = JSON.parse(retrievedModel_year);
+      //$scope.model_years = JSON.parse(retrievedModel_year);
     }
     $scope.brands = JSON.parse(retrievedBrands);
     
   }else{
     $http.get('assets/products/poland/'+$scope.cat_name+'.json', { cache: true }).success(function (data) {
-      console.log('Enter 2');
-      $scope.products = data;
       $scope.brands = data;
-      $scope.model_years = data;
+      if (type == 'no-filter'){
+        $scope.products = data;
+      }
+      //$scope.model_years = data;
       window.localStorage.setItem($scope.cat_name+'_products', JSON.stringify(data));;
       window.localStorage.setItem($scope.cat_name+'_brands', JSON.stringify(data));;
-      window.localStorage.setItem($scope.cat_name+'_model_year', JSON.stringify(data));;
+      //window.localStorage.setItem($scope.cat_name+'_model_year', JSON.stringify(data));;
     });
   }
 }
