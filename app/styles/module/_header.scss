@@ -32,7 +32,11 @@
   }
 }
 
-@media screen and (max-height: 330px) {
+@media screen and (max-height: 600px) {
+  .header-search{
+    display: none;
+  }
+
   .header{
     height: 2.25em;
     .logo{
@@ -40,6 +44,22 @@
       img{
         width: 8.575em;
         height: 2.913em;
+      }
+    }
+  }
+}
+
+@media screen and (max-height: 450px) {
+  .header{
+    height: 1.25em;
+    .logo{
+      background-image: none;
+      img{
+        position: fixed;
+        top: 0;
+        right: 30px;
+        width: 5em;
+        height: 2em;
       }
     }
     .brand {
@@ -55,14 +75,6 @@
   }
   
   .header-search{
-    display: none;
-  }
-
-  
-}
-
-@media screen and (max-height: 600px) {
-  .header-search{
-    display: none;
-  }
+    height: 0;
+  } 
 }
