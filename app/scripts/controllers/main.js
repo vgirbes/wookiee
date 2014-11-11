@@ -14,4 +14,5 @@ angular.module('wookieesApp')
       'AngularJS',
       'Karma'
     ];
+    show_web($scope);
   });

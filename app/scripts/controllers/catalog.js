@@ -2,6 +2,7 @@
 
 // var app = angular.module('wookieesApp', []);
 angular.module('wookieesApp').controller('Catalog', function ($scope, $http) {
+    show_web($scope);
     $http.get('assets/categories.json', { cache: true }).success(function (data) {
         $scope.datos = data.categories;
         $scope.page1 = data.categories.slice(0, 8);
@@ -9,22 +10,26 @@ angular.module('wookieesApp').controller('Catalog', function ($scope, $http) {
         $scope.page3 = data.categories.slice(16, 24);
 
         $scope.$on('ngRepeatFinished', function(ngRepeatFinishedEvent) {
-            $('.bxslider').bxSlider({
-              infiniteLoop: false,
-              captions: true,
-              controls: false
+            $('.bxslider').imagesLoaded()
+            .done( function( instance ) {
+              $('.bxslider').fadeIn('slow');
+              $('.bxslider').bxSlider({
+                infiniteLoop: false,
+                captions: true,
+                controls: false
+              });
+              
             });
         });
   });
 });
 
 angular.module('wookieesApp').controller('DefineSearch', function ($scope, $routeParams, $http) {
+    show_web($scope);
     $scope.cat_name = $routeParams.name;
     $scope.id_cat = $routeParams.id_cat;
     $scope.filter = $routeParams.id_filter;
-    $scope.$watch(function() {
-      
-    });
+    
     $scope.$on('ngRepeatFinished', function(ngRepeatFinishedEvent) {
       $('.loading').hide();
       $('#filter-type-'+$routeParams.id_filter).show();
@@ -36,6 +41,7 @@ angular.module('wookieesApp').controller('DefineSearch', function ($scope, $rout
 });
 
 angular.module('wookieesApp').controller('ShowProduct', function ($scope, $routeParams, $http) {
+    show_web($scope);
     $scope.cat_name = $routeParams.name;
     $scope.id_cat = $routeParams.id_cat;
     $scope.id_product = $routeParams.id_product;
@@ -47,6 +53,7 @@ angular.module('wookieesApp').controller('ShowProduct', function ($scope, $route
 });
 
 angular.module('wookieesApp').controller('Services', function ($scope, $routeParams, $http) {
+    show_web($scope);
     $scope.cat_name = $routeParams.name;
     $scope.id_cat = $routeParams.id_cat;
     $scope.id_product = $routeParams.id_product;
@@ -141,6 +148,15 @@ function get_categories($scope, $http){
     $scope.categories = data.categories;
   });
 
+}
+
+function show_web($scope){
+  $scope.$watch(function() {
+      $('body').imagesLoaded()
+      .done( function( instance ) {
+        $('body').fadeIn('slow');
+      });
+  });
 }
 
 function get_product($scope, $http, type){
